@@ -1,0 +1,635 @@
+Season Number,Startup Name,Industry_Cleaned,Pitchers City,Pitchers State,Pitchers Average Age,Gross Margin,Net Margin,Yearly Revenue_M_INR,Monthly Sales_M_INR,Original Ask Amount_M_INR,Valuation Requested_M_INR,Total Deal Amount_M_INR,Deal Valuation_M_INR,Total Deal Equity,Total Deal Debt_M_INR,Royalty Percentage,Number of Sharks in Deal,Deal_Success_Flag,Received Offer,Accepted Offer,Number of Presenters,Male Presenters,Female Presenters,Couple Presenters,Founder_Type,Namita Investment Amount_M_INR,Vineeta Investment Amount_M_INR,Anupam Investment Amount_M_INR,Aman Investment Amount_M_INR,Peyush Investment Amount_M_INR,Ritesh Investment Amount_M_INR,Amit Investment Amount_M_INR,Guest Investment Amount_M_INR
+1,BluePineFoods,F&B,Delhi,Delhi,Middle,,,9.5,0.8,5.0,100.0,7.5,46.9,16.0,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,2.5,0.0,2.5,0.0,0.0,0.0,2.5
+1,BoozScooters,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Young,,,0.4,0.04,4.0,26.7,4.0,8.0,50.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0
+1,HeartUpMySleeves,Beauty/Fashion,Delhi,Delhi,Young,,,0.0,0.2,2.5,25.0,2.5,8.3,30.0,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,1.25,1.25,0.0,0.0,0.0,0.0,0.0
+1,TagzFoods,F&B,Bangalore,Karnataka,Middle,48.0,,70.0,0.0,7.0,700.0,7.0,254.5,2.75,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+1,HeadAndHeart,Education/Kids,Patiala,Punjab,Middle,,,3.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,4,1.0,3.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Agritourism,Other,Baramati,Maharashtra,Middle,,,7.9,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,qZenseLabs,F&B,"Delhi,Mohali","Delhi,Punjab",Middle,,,2.5,1.5,10.0,4000.0,0.0,0.0,,0.0,,,0,1,0.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Peeschute,Beauty/Fashion,Jalna,Maharashtra,Young,,,10.0,0.0,7.5,187.5,7.5,125.0,6.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0
+1,NOCD,F&B,Bangalore,Karnataka,Middle,,,0.0,2.0,5.0,250.0,2.0,13.3,15.0,3.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,CosIQ,Beauty/Fashion,Delhi,Delhi,Middle,75.0,20.0,0.0,0.4,5.0,66.7,5.0,20.0,25.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+1,JhaJiAchaar,F&B,Darbhanga,Bihar,Old,18.0,,0.0,0.5,5.0,50.0,5.66,100.7,5.62,0.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,2.83,2.83,0.0,0.0,0.0,0.0,0.0,0.0
+1,Bummer,Beauty/Fashion,Ahmedabad,Gujarat,Young,70.0,,3.6,1.5,7.5,187.5,7.5,100.0,7.5,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,3.75,0.0,0.0,3.75,0.0,0.0,0.0,0.0
+1,RevampMoto,Vehicles/Electrical Vehicles,Nashik,Maharashtra,Young,,,0.0,0.001,10.0,1000.0,10.0,666.7,1.5,0.0,,2.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0
+1,HungryHead,F&B,Mumbai,Maharashtra,Middle,,,0.0,0.55,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ShrawaniEngineers,Beauty/Fashion,Nagpur,Maharashtra,Middle,,,5.0,0.0,2.0,20.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,SkippiIcePops,F&B,Hyderabad,Telangana,Middle,,,0.0,0.75,4.5,90.0,10.0,66.7,15.0,0.0,,5.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,2.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0
+1,Menstrupedia,Education/Kids,Ahmedabad,Gujarat,Middle,27.0,,11.5,0.0,5.0,50.0,5.0,25.0,20.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Hecoll,Beauty/Fashion,Hyderabad,Telangana,Middle,,,10.7,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,RaisingSuperstars,Education/Kids,Gurgaon,Haryana,Middle,,,130.0,0.0,10.0,500.0,10.0,250.0,4.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0
+1,Torch-it,Education/Kids,Ahmedabad,Gujarat,Middle,,,26.0,0.1,7.5,750.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Kavach,Education/Kids,Gurgaon,Haryana,Young,,,0.0,0.0,0.5,5.0,0.5,5.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+1,LaKheerDeli,F&B,Pune,Maharashtra,Middle,,,0.0,0.6,5.0,66.7,0.0,0.0,,0.0,,,0,1,0.0,3,1.0,2.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,BeyondSnack,F&B,Thiruvananthapuram,Kerala,Middle,51.0,,6.0,2.06,5.0,200.0,5.0,200.0,2.5,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,2.5,0.0,0.0,0.0,2.5
+1,VivalyfInnovations,Medical/Health,Hyderabad,Telangana,Young,,,0.0,0.0,5.6,74.7,5.6,16.8,33.33,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,2.8,0.0,2.8,0.0,0.0,0.0
+1,MotionBreeze,Vehicles/Electrical Vehicles,Vadodara,Gujarat,Middle,,,0.0,0.0,3.0,100.0,3.0,50.0,6.0,0.0,,1.0,1,1,1.0,4,4.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+1,Altor,Manufacturing,Kolkata,West Bengal,Young,,,0.0,0.0,5.0,100.0,5.0,71.4,7.0,0.0,,2.0,1,1,1.0,4,4.0,,0,Male Team,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+1,Ariro,Manufacturing,Chennai,Tamil Nadu,Young,50.0,,30.0,2.5,5.0,200.0,5.0,50.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0
+1,KabiraHandmad,F&B,Jaipur,Rajasthan,Middle,3.0,1.0,0.0,16.0,10.0,200.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Nuutjob,Beauty/Fashion,Ahmedabad,Gujarat,Young,70.0,,0.0,0.0002,2.5,50.0,2.5,12.5,20.0,0.0,,3.0,1,1,1.0,2,,2.0,0,Female Team,0.833,0.0,0.0,0.833,0.833,0.0,0.0,0.0
+1,Meatyour,F&B,Pune,Maharashtra,Middle,30.0,,13.0,0.27999999999999997,3.0,60.0,3.0,15.0,20.0,0.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+1,EventBeep,Education/Kids,Pune,Maharashtra,Young,,,12.0,0.0,3.0,150.0,3.0,100.0,3.0,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+1,Gopal's56,F&B,Delhi,Delhi,Middle,21.0,,8.0,3.3,3000.0,12000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ARRCOATSurfaceTextures,Manufacturing,Delhi,Delhi,Middle,,20.0,0.0,0.6,5.0,100.0,5.0,33.3,15.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+1,Farda,Beauty/Fashion,Nagpur,Maharashtra,Young,115.0,,0.0,0.032,3.0,30.0,3.0,15.0,20.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,1.5,0.0,0.0,1.5,0.0,0.0,0.0,0.0
+1,Auli,Beauty/Fashion,Kolkata,West Bengal,Middle,80.0,10.0,25.0,1.6,7.5,187.5,7.5,50.0,15.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,SweeDesi,F&B,Pune,Maharashtra,Middle,,,0.0,0.0,4.0,133.3,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,LOKA,Technology/Software,Delhi,Delhi,Young,,,0.0,0.0,4.0,80.0,4.0,16.7,24.0,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,1.333,1.333,1.333,0.0,0.0,0.0
+1,Annie,Education/Kids,Bangalore,Karnataka,Young,50.0,,50.0,0.4,3.0,600.0,10.5,350.0,3.0,0.0,,3.0,1,1,1.0,4,3.0,1.0,1,Mixed Team,3.5,0.0,3.5,0.0,3.5,0.0,0.0,0.0
+1,Carragreen,Other,Indore,Madhya Pradesh,Middle,,,0.0,0.0,5.0,50.0,5.0,25.0,20.0,0.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,2.5,0.0,2.5,0.0,0.0,0.0
+1,TheYarnBazaar,Manufacturing,Mumbai,Maharashtra,Middle,,,18.0,0.0,5.0,250.0,10.0,100.0,10.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,2.5,2.5,2.5,0.0,0.0,2.5
+1,TheRenalProject,Medical/Health,Mumbai,Maharashtra,Middle,,,30.0,0.0,10.0,333.3,10.0,166.7,6.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,5.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+1,MorrikoPureFoods,F&B,Valsad,Gujarat,Middle,,,0.0,1.6,10.0,333.3,0.0,0.0,,0.0,,,0,1,0.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,GoodGoodPiggy,Technology/Software,Delhi,Delhi,Young,,,0.0,0.0,4.5,90.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,HammerLifestyle,Other,Panipat,Haryana,Young,,,100.0,0.0,3.0,100.0,10.0,25.0,40.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+1,PNTRobotics,Technology/Software,Mumbai,Maharashtra,Young,,,0.0,0.0,5.0,125.0,2.5,10.0,25.0,2.5,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+1,Cocofit,F&B,Hyderabad,Telangana,Middle,95.0,,10.0,0.0,5e-06,0.0,5e-06,0.0,5.0,0.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,1.6e-06,0.0,1.6e-06,1.6e-06,0.0,0.0,0.0,0.0
+1,BambooIndia,Manufacturing,Pune,Maharashtra,Middle,,,38.0,2.0,8.0,200.0,5.0,142.9,3.5,3.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,2.5,0.0,0.0,0.0,0.0,2.5
+1,FlyingFur,Other,Delhi,Delhi,Middle,,,0.0,0.0,7.5,107.1,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,BeyondWater,F&B,Kolkata,West Bengal,Young,,,0.0,1.0,7.5,187.5,7.5,50.0,15.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,3.75,0.0,0.0,3.75,0.0,0.0,0.0,0.0
+1,Let'sTry,F&B,Delhi,Delhi,Middle,55.0,25.0,0.0,0.3,4.5,225.0,4.5,37.5,12.0,0.0,,2.0,1,1,1.0,4,1.0,3.0,1,Mixed Team,0.0,0.0,2.25,2.25,0.0,0.0,0.0,0.0
+1,FindYourKicksIndia,Beauty/Fashion,Ludhiana,Punjab,Young,,,0.0,0.35,5.0,50.0,5.0,20.0,25.0,0.0,,5.0,1,1,1.0,3,3.0,,0,Male Team,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+1,AasVidyalaya,Education/Kids,Mumbai,Maharashtra,Middle,,,15.0,0.0,15.0,500.0,15.0,100.0,15.0,0.0,,3.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,5.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0
+1,Outbox,Business Services,Kolkata,West Bengal,Young,,,11.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,RoadBounce,Technology/Software,Pune,Maharashtra,Middle,,,25.0,0.0,8.0,80.0,8.0,40.0,20.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+1,Mommy'sKitchen,F&B,Mumbai,Maharashtra,Middle,,,9.2,0.45,9.0,300.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,IndiaHempandCo,F&B,Bangalore,Karnataka,Middle,,,2.7,0.2,5.0,125.0,0.0,0.0,,0.0,,,0,1,0.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Otua,Vehicles/Electrical Vehicles,Gurgaon,Haryana,Middle,,,0.0,0.0,10.0,1000.0,0.1,10.0,1.0,9.9,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+1,Anthyesti,Business Services,Bangalore,Karnataka,Middle,50.0,6.0,11.6,0.0,5.0,200.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Ethik,Manufacturing,Bangalore,Karnataka,Middle,,,1.2,0.1,1.5,30.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,WeSTOCK,Other,Ernakulam,Kerala,Middle,,,5.4,0.0,5.0,100.0,6.0,60.0,10.0,0.0,,4.0,1,1,1.0,2,2.0,,0,Male Team,1.5,0.0,0.0,1.5,1.5,0.0,0.0,1.5
+1,KetoIndia,F&B,Delhi,Delhi,Young,,,18.0,1.5,15.0,1200.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Magiclock,Other,Mumbai,Maharashtra,Middle,,,0.0,0.004,12.0,150.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,TheStatePlate,F&B,"Bangalore,Kolkata","Karnataka,West Bengal",Young,34.0,,0.0,4.0,6.5,325.0,4.0,133.3,3.0,2.5,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+1,Bakarmax,Technology/Software,Delhi,Delhi,Young,,,3.5,0.5,3.5,70.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,INACAN,F&B,Pune,Maharashtra,Middle,,,0.0,2.3,5.0,250.0,10.0,100.0,10.0,0.0,,5.0,1,1,1.0,3,3.0,,0,Male Team,2.0,0.0,2.0,2.0,2.0,0.0,0.0,2.0
+1,Get-A-Whey,F&B,Mumbai,Maharashtra,Middle,69.0,20.0,36.0,0.025,10.0,125.0,10.0,66.7,15.0,0.0,,3.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,3.3329999999999997,0.0,3.3329999999999997,0.0,0.0,0.0,3.3329999999999997
+1,Sid07Designs,Other,Jammu,Jammu & Kashmir,Young,,,0.0,0.1,4.7,47.0,2.5,3.3,75.0,2.2,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+1,TheQuirkyNaari,Beauty/Fashion,Mathura,Uttar Pradesh,Young,,,0.0,0.3,3.5,70.0,3.5,14.6,24.0,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,1.75,1.75,0.0,0.0,0.0,0.0,0.0
+1,HairOriginals,Beauty/Fashion,Gurgaon,Haryana,Middle,62.0,,0.0,5.5,6.0,300.0,6.0,150.0,4.0,0.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,2.0,0.0,2.0,0.0,0.0,2.0
+1,Poo-de-Cologne,Beauty/Fashion,Mumbai,Maharashtra,Middle,150.0,,0.0,0.075,7.5,150.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Moonshine,F&B,Mumbai,Maharashtra,Middle,70.0,,37.2,0.0,8.0,1600.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Falhari,F&B,Gurgaon,Haryana,Middle,25.0,,0.0,0.1,5.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,NamhyaFoods,F&B,Jammu,Jammu & Kashmir,Young,,34.0,0.0,1.6,10.0,200.0,5.0,50.0,10.0,5.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+1,UrbanMonkey,Beauty/Fashion,Mumbai,Maharashtra,Young,,25.0,250.0,20.0,10.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,GuardianGears,Manufacturing,Hyderabad,Telangana,Middle,50.0,15.0,25.0,2.1,3.0,60.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ModernMyth,Beauty/Fashion,Delhi,Delhi,Young,,,0.0,1.4,7.5,150.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,TheSassBar,Beauty/Fashion,Mumbai,Maharashtra,Young,65.0,55.0,0.0,0.7,4.0,50.0,5.0,14.3,35.0,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,2.5,0.0,0.0,0.0,0.0,2.5
+1,KGAgrotech,Other,Malegaon,Maharashtra,Young,,,0.0,0.0,3.0,30.0,1.0,2.5,40.0,2.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,NuskhaKitchen,F&B,Jaipur,Rajasthan,Middle,,,0.0,0.145,2.0,20.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,PawsIndia,Other,Mumbai,Maharashtra,Young,,16.0,30.0,2.0,5.0,125.0,5.0,33.3,15.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+1,SunfoxTechnologies,Medical/Health,Dehradun,Uttarakhand,Young,,,12.0,0.5,10.0,500.0,10.0,166.7,6.0,0.0,,5.0,1,1,1.0,4,4.0,,0,Male Team,2.0,2.0,2.0,0.0,2.0,0.0,0.0,2.0
+1,Alpino,F&B,Surat,Gujarat,Young,38.0,,0.0,0.0,15.0,750.0,0.0,0.0,,0.0,,,0,1,0.0,4,4.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,IsakFragrances,Beauty/Fashion,Lucknow,Uttar Pradesh,Young,,,0.0,0.35,5.0,62.5,5.0,10.0,50.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+1,JulaaAutomation,Manufacturing,Ahmedabad,Gujarat,Middle,,,0.0,0.0,5.0,50.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,RarePlanet,Manufacturing,Kolkata,West Bengal,Middle,,10.0,0.0,1.2,6.5,650.0,6.5,216.7,3.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ThekaCoffee,F&B,Gandhinagar,Gujarat,Young,,,18.0,0.4,5.0,50.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,WattTechnovations,Medical/Health,Pune,Maharashtra,Young,,,0.0,0.0,0.000101,0.0,0.000101,0.0,4.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,2.525e-05,0.0,2.525e-05,0.0,2.525e-05,0.0,0.0,2.525e-05
+1,AlisteTechnologies,Technology/Software,Noida,Uttar Pradesh,Young,,40.0,6.3,0.75,6.0,120.0,0.0,0.0,,0.0,,,0,1,0.0,6,6.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,InsuranceSamadhan,Business Services,Noida,Uttar Pradesh,Middle,,,10.4,2.2,10.0,1000.0,10.0,250.0,4.0,0.0,,1.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+1,HumpyA2,F&B,Pune,Maharashtra,Middle,44.0,,20.8,0.0,7.5,187.5,10.0,66.7,15.0,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,3.3329999999999997,0.0,0.0,3.3329999999999997,0.0,0.0,3.3329999999999997
+1,KunafaWorld,F&B,Mangalore,Karnataka,Young,,30.0,20.0,3.0,9.0,180.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,GoldSafeSolutions,Manufacturing,Mumbai,Maharashtra,Middle,25.0,,6.0,0.0,5.0,100.0,5.0,16.7,30.0,0.0,,3.0,1,1,1.0,2,2.0,,0,Male Team,0.0,1.666,0.0,0.0,1.666,0.0,0.0,1.666
+1,WakaoFoods,F&B,Goa,Goa,Middle,,,7.2,0.6,7.5,150.0,7.5,35.7,21.0,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,2.5,2.5,0.0,0.0,0.0,0.0,0.0,2.5
+1,PDDFalcon,Manufacturing,Gandhinagar,Gujarat,Young,30.0,,24.2,0.0,7.5,250.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,PlayBoxTV,Business Services,Mumbai,Maharashtra,Young,,,102.0,8.7,10.0,285.7,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Sippline,Manufacturing,Pune,Maharashtra,Middle,,,0.0,0.0,7.5,50.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,KabaddiAdda,Fitness/Sports/Outdoors,Bangalore,Karnataka,Middle,80.0,30.0,25.0,0.0,8.0,800.0,8.0,133.3,6.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ShadesofSpring,Business Services,Bangalore,Karnataka,Young,30.0,,90.0,0.0,30.0,3000.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Scholify,Education/Kids,Bangalore,Karnataka,Middle,,,0.0,0.0,5.0,66.7,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Scrapshala,Manufacturing,Varanasi,Uttar Pradesh,Middle,,,2.7,0.2,5.0,50.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Sabjikothi,Manufacturing,Bhagalpur,Bihar,Young,,,0.0,0.0,6.0,240.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,AyuRythm,Medical/Health,Bangalore,Karnataka,Middle,,,0.0,0.0,7.5,375.0,7.5,279.9,2.68,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0
+1,Astrix,Manufacturing,Coimbatore,Tamil Nadu,Middle,,,7.5,1.8,7.5,250.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,TheaAndSid,Business Services,Mumbai,Maharashtra,Middle,75.0,30.0,1.6,1.0,8.0,114.3,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ExperentialEtc,Technology/Software,Mumbai,Maharashtra,Middle,,,10.0,0.0,20.0,500.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,GrowFitter,Technology/Software,Mumbai,Maharashtra,Middle,,,17.0,0.0,5.0,500.0,5.0,250.0,2.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+1,C3Med-Tech,Medical/Health,Ahmedabad,Gujarat,Middle,,,0.0,0.0,3.5,58.3,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ColourMeMad-CMM,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,0.0,0.066,4.0,40.0,4.0,16.0,25.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Mavi's,F&B,Thane,Maharashtra,Middle,,,0.0,0.2,4.0,80.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,TweekLabs,Fitness/Sports/Outdoors,Delhi,Delhi,Middle,,,0.0,0.0,4.0,200.0,6.0,60.0,10.0,0.0,,3.0,1,1,1.0,4,4.0,,0,Male Team,0.0,0.0,2.0,0.0,2.0,0.0,0.0,2.0
+1,Proxgy,Technology/Software,Delhi,Delhi,Middle,,,0.0,0.0,3.5,350.0,10.0,100.0,10.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0
+1,NomadFoodProject,F&B,"Delhi,Pune","Delhi,Maharashtra",Young,70.0,,0.0,0.3,4.0,40.0,4.0,20.0,20.0,0.0,,4.0,1,1,1.0,2,2.0,,0,Male Team,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+1,TweeInOne,Beauty/Fashion,Mumbai,Maharashtra,Young,,,0.0,0.0,3.0,40.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,GreenProtein,F&B,Mumbai,Maharashtra,Middle,40.0,,0.0,1.2,6.0,300.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,On2Cook,F&B,Ahmedabad,Gujarat,Middle,,,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,JainShikanji,F&B,Modinagar,Uttar Pradesh,Middle,,,0.0,0.2,4.0,50.0,4.0,13.3,30.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+1,Woloo,Technology/Software,Mumbai,Maharashtra,Middle,,,10.8,0.0,5.0,125.0,0.0,0.0,,0.0,,,0,1,0.0,3,1.0,2.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ElcareIndia,Medical/Health,Mumbai,Maharashtra,Middle,30.0,,6.0,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,SneaKare,Beauty/Fashion,Delhi,Delhi,Young,,,0.0,0.7,2.0,40.0,2.1,17.5,12.0,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,0.7,0.7,0.0,0.7,0.0,0.0,0.0,0.0
+1,FrenchCrown,Beauty/Fashion,Surat,Gujarat,Middle,70.0,,720.0,0.0,15.0,4545.5,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,StoreMyGoods,Business Services,Noida,Uttar Pradesh,Middle,,,10.0,0.0,10.0,571.4,5.0,125.0,4.0,5.0,,2.0,1,1,1.0,3,2.0,1.0,1,Mixed Team,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+1,Devnagri,Technology/Software,Delhi,Delhi,Middle,,,50.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,WitBlox,Manufacturing,Mumbai,Maharashtra,Middle,,,0.0,0.0,6.0,200.0,6.0,60.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0
+1,Kineer,F&B,Pune,Maharashtra,Middle,,,0.0,0.2,10.0,100.0,0.0,0.0,,0.0,,,0,0,,2,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,PiChem,Manufacturing,Lucknow,Uttar Pradesh,Young,50.0,,0.0,0.177,4.0,80.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Clensta,Beauty/Fashion,Delhi,Delhi,Middle,,,0.0,15.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,InfinitiInsects,Other,Bangalore,Karnataka,Middle,,,0.0,0.05,2.5,25.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,AshwaPro,Business Services,Jaipur,Rajasthan,Middle,,,0.0,0.0,5.0,50.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Mine4Nine,Beauty/Fashion,Gurgaon,Haryana,Middle,,,26.0,0.0,7.5,187.5,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,StudioBeej,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,11.2,0.0,7.5,100.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Sattuz,F&B,Madhubani,Bihar,Middle,,,2.5,0.0,2.5,50.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Scintiglo,Medical/Health,Indore,Madhya Pradesh,Middle,,,0.0,0.0,7.5,750.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Glii,Business Services,Noida,Uttar Pradesh,Middle,,,0.0,0.0,4.0,100.0,0.0,0.0,,0.0,,,0,0,,4,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,StanleeIndia,Other,Delhi,Delhi,Middle,,,0.0,0.0,6.0,200.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,SpaceKidzIndia,Manufacturing,Chennai,Tamil Nadu,Middle,,,0.0,0.0,10.0,500.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,UrbanNaps,Business Services,Ahmedabad,Gujarat,Young,,,0.0,0.0,5.0,125.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Gizmoswala,Other,Mumbai,Maharashtra,Middle,40.0,,0.0,0.7,7.5,150.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,ZyppElectric,Vehicles/Electrical Vehicles,Gurgaon,Haryana,Young,,,0.0,0.0,22.0,2200.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Picsniff,Technology/Software,Mumbai,Maharashtra,Young,,,0.0,0.0,5.5,550.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Deciwood,Other,Delhi,Delhi,Young,,,0.0,0.0,5.0,142.9,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,HappyBar,F&B,Hyderabad,Telangana,Middle,,,0.0,2.9,6.0,300.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Tathastulive,Business Services,Ahmedabad,Gujarat,Middle,,,0.0,0.0,5.0,50.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,BandsandCups,Beauty/Fashion,Chennai,Tamil Nadu,Middle,60.0,,0.0,0.1,4.0,40.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,MyWealthProtector,Business Services,Mumbai,Maharashtra,Middle,,,0.0,0.2,5.0,200.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,TheIris,Manufacturing,Bangalore,Karnataka,Young,,,0.0,0.0,1.0,6.7,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Canebot,F&B,Pune,Maharashtra,Middle,,,20.0,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,OyeDelhiOye,F&B,Delhi,Delhi,Middle,,,0.0,0.0,3.5,35.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,InaliAssistiveTech,Medical/Health,Pune,Maharashtra,Young,,,0.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Meera'sCelebrations,Business Services,Ludhiana,Punjab,Middle,,,0.0,0.0,5.0,20.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Artment,Lifestyle/Home,Gurgaon,Haryana,Young,,,0.0,10.0,17.0,680.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Powertree,Manufacturing,Gandhinagar,Gujarat,Middle,,,0.0,0.0,15.0,600.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Eume,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,120.0,0.0,15.0,750.0,0.0,0.0,,0.0,,,0,1,0.0,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Hoovu,Business Services,Bangalore,Karnataka,Young,,,0.0,6.5,8.0,800.0,10.0,500.0,2.0,0.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+2,Dorji,F&B,Darjeeling,West Bengal,Young,,,0.0,1.1,3.0,60.0,3.0,20.0,15.0,0.0,,3.0,1,1,1.0,2,2.0,,0,Male Team,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+2,Recode,Beauty/Fashion,Ludhiana,Punjab,Middle,,,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,VeryMuchIndian,Beauty/Fashion,Pune,Maharashtra,Middle,35.0,,15.0,0.0,5.0,166.7,5.0,50.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+2,WatchoutWearables,Other,Thane,Maharashtra,Young,,,0.0,2.5,20.0,400.0,10.0,100.0,10.0,10.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+2,SoupX,F&B,Delhi,Delhi,Young,45.0,,0.0,0.0,7.5,125.0,5.0,27.77777778,18.0,2.5,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ATMOSPHERE,F&B,Delhi,Delhi,Young,,,0.0,0.0,7.5,250.0,0.0,0.0,,0.0,,,0,1,0.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Stage,Other,"Bhiwani,Barnagar","Haryana,Madhya Pradesh",Young,,,0.0,0.0,30.0,3000.0,15.0,2500.0,0.6,15.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,5.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+2,Girgit,Beauty/Fashion,Mumbai,Maharashtra,Young,,,0.0,0.0,2.0,20.0,2.0,10.0,20.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GearHeadMotors,Vehicles/Electrical Vehicles,Hyderabad,Telangana,Young,,,0.0,0.0,7.5,375.0,10.0,149.9250375,6.67,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+2,PatilKaki,F&B,Mumbai,Maharashtra,Young,,,0.0,0.0,4.0,160.0,4.0,100.0,4.0,0.0,,2.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
+2,Brandsdaddy,Manufacturing,Mumbai,Maharashtra,Middle,60.0,,0.0,1.2,7.0,140.0,3.5,70.0,5.0,3.5,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Winston,Beauty/Fashion,Faridabad,Haryana,Middle,,,0.0,4.6,10.0,250.0,10.0,100.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+2,Flatheads,Beauty/Fashion,Bangalore,Karnataka,Middle,,,0.0,0.0,7.5,250.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,OrganicSmokes,Beauty/Fashion,Delhi,Delhi,Middle,,,0.0,4.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TeaFit,F&B,Mumbai,Maharashtra,Young,,,0.0,0.0,5.0,166.6666667,5.0,62.5,8.0,0.0,,4.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,1.25,1.25,1.25,1.25,0.0,0.0,0.0
+2,Haqdarshak,Business Services,Shimla,Himachal Pradesh,Middle,,,0.0,0.0,10.0,2000.0,10.0,500.0,2.0,0.0,,3.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,3.3329999999999997,0.0,0.0,3.3329999999999997,3.3329999999999997,0.0,0.0,0.0
+2,Bhaskar'sPuranpoliGhar,F&B,Thane,Maharashtra,Middle,,,0.0,0.0,7.5,750.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GunjanAppsStudios,Technology/Software,Kolkata,West Bengal,Middle,,,240.0,0.0,25.0,2500.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TheSimplySalad,F&B,Ahmedabad,Gujarat,Young,,,0.0,0.0,3.0,30.0,3.0,30.0,10.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,1.5,0.0,1.5,0.0,0.0,0.0,0.0
+2,AyuSynk,Medical/Health,Mumbai,Maharashtra,Middle,,,0.0,0.0,10.0,666.6666667000001,5.0,142.8571429,3.5,5.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,AtypicalAdvantage,Technology/Software,Jamshedpur,Jharkhand,Middle,,,0.0,0.0,3.0,300.0,3.0,100.0,3.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,1.5,0.0,0.0,1.5,0.0,0.0,0.0,0.0
+2,HouseOfChikankari,Beauty/Fashion,Delhi,Delhi,Middle,,,0.0,0.0,7.5,750.0,7.5,200.0,3.75,0.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,3.75,3.75,0.0,0.0,0.0
+2,MagicOfMemories,Beauty/Fashion,Delhi,Delhi,Middle,,,0.0,0.0,2.5,50.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Paradyes,Beauty/Fashion,Ahmedabad,Gujarat,Young,,,35.0,0.0,6.5,650.0,6.5,325.0,2.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,3.25,0.0,3.25,0.0,0.0,0.0,0.0
+2,Nestroots,Lifestyle/Home,Delhi,Delhi,Middle,,,0.0,0.0,5.0,500.0,5.0,250.0,2.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Zillionaire,Beauty/Fashion,Jaipur,Rajasthan,Young,,,10.0,0.0,5.0,151.5151515,10.0,100.0,10.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+2,Credmate,Technology/Software,Ludhiana,Punjab,Middle,,,0.0,13.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Freebowler,Fitness/Sports/Outdoors,Bangalore,Karnataka,Middle,,,0.0,0.0,7.5,100.0,2.5,33.33333333,7.5,5.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ABCSports&Fitness,Fitness/Sports/Outdoors,Pune,Maharashtra,Middle,,,0.0,0.0,4.0,200.0,4.0,40.0,10.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+2,Primebook,Technology/Software,Delhi,Delhi,Middle,,,0.0,0.0,7.5,500.0,7.5,250.0,3.0,0.0,,2.0,1,1,1.0,4,4.0,,0,Male Team,0.0,0.0,0.0,3.75,3.75,0.0,0.0,0.0
+2,DailyDump,Manufacturing,Bangalore,Karnataka,Middle,,,0.0,0.0,8.0,200.0,3.0,75.0,4.0,5.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GharSoaps,Beauty/Fashion,Pune,Maharashtra,Middle,,,0.0,0.0,6.0,300.0,6.0,150.0,4.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+2,Janitri,Medical/Health,Alwar,Rajasthan,Middle,,,0.0,0.0,10.0,400.0,10.0,400.0,2.5,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,JaipurWatchCompany,Manufacturing,Jaipur,Rajasthan,Middle,75.0,,0.0,0.0,5.0,250.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,InsideFPV,Manufacturing,Surat,Gujarat,Young,,,0.0,0.0,7.5,187.5,7.5,50.0,15.0,0.0,,4.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,1.875,0.0,0.0,1.875,1.875,0.0,1.875,0.0
+2,Angrakhaa,Beauty/Fashion,Delhi,Delhi,Young,,,0.0,0.0,4.0,80.0,4.0,20.0,20.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0
+2,Diabexy,F&B,Gurgaon,Haryana,Middle,,,0.0,10.0,15.0,1500.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Kyari,Manufacturing,Ghaziabad,Uttar Pradesh,Young,,,0.0,1.0,5.1,510.0,5.1,85.0,6.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,2.55,0.0,2.55,0.0,0.0,0.0
+2,MoppFoods,F&B,Delhi,Delhi,Middle,,,0.0,0.0,7.5,333.3333333,7.5,150.0,5.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0
+2,Econiture,Other,Amaravati,Maharashtra,Middle,,,0.0,0.0,5.0,62.5,0.0,0.0,,0.0,,,0,0,,4,4.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Dobiee,F&B,Shinde,Maharashtra,Middle,23.0,,0.0,3.2,7.2,360.0,7.2,110.76923079999999,6.5,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,7.2,0.0
+2,FastBeetle,Business Services,Srinagar,Jammu & Kashmir,Young,54.0,,0.0,2.5,9.0,300.0,9.0,120.0,7.5,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,4.5,4.5,0.0,0.0,0.0
+2,Pflow,Medical/Health,Dhule,Maharashtra,Middle,80.0,,0.0,0.0,6.0,600.0,6.0,100.0,6.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+2,VSMani,F&B,Bangalore,Karnataka,Middle,,,0.0,6.3,6.0,400.0,1.9,190.0,1.0,4.1,,1.0,1,1,1.0,3,3.0,,0,Male Team,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Sepal,Manufacturing,Hyderabad,Telangana,Middle,37.0,,0.0,0.0,5.0,500.0,5.0,250.0,2.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+2,Solinas,Business Services,Chennai,Tamil Nadu,Middle,,,12.0,0.0,9.0,450.0,9.0,300.0,3.0,0.0,,2.0,1,1,1.0,4,3.0,1.0,0,Mixed Team,0.0,0.0,4.5,0.0,4.5,0.0,0.0,0.0
+2,AvimeeHerbal,Beauty/Fashion,Surat,Gujarat,Middle,69.0,,0.0,16.5,28.0,5600.0,0.0,0.0,,0.0,,,0,1,0.0,5,3.0,2.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,eyenic,Beauty/Fashion,Delhi,Delhi,Middle,45.0,21.0,0.0,1.5,7.5,125.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ekatra,Lifestyle/Home,Kota,Rajasthan,Middle,80.0,28.0,0.0,0.5,4.0,40.0,2.0,10.0,20.0,2.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+2,Raasa,F&B,Delhi,Delhi,Middle,,,0.0,0.0,5.0,100.0,5.0,20.0,25.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+2,NeoMotion,Manufacturing,Chennai,Tamil Nadu,Middle,,,47.0,0.0,10.0,1000.0,10.0,1000.0,1.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+2,licksters,F&B,Nagpur,Maharashtra,Middle,,,8.6,1.4,5.0,100.0,2.5,50.0,5.0,2.5,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0
+2,Sayonara,Beauty/Fashion,Kolkata,West Bengal,Middle,,,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,PMV,Vehicles/Electrical Vehicles,Mumbai,Maharashtra,Middle,,,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,SpiceStory,F&B,Mumbai,Maharashtra,Middle,,,41.0,5.7,7.0,350.0,7.0,140.0,5.0,0.0,,1.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Bullspree,Technology/Software,Ahmedabad,Gujarat,Middle,,,0.0,0.0,7.5,500.0,7.5,262.2377622,2.86,0.0,,2.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,3.75,3.75,0.0,0.0,0.0
+2,Snitch,Beauty/Fashion,Bangalore,Karnataka,Middle,,,0.0,0.0,15.0,3000.0,15.0,1000.0,1.5,0.0,,5.0,1,1,1.0,1,1.0,,0,Male Team,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.0
+2,Portl,Business Services,Hyderabad,Telangana,Middle,45.0,,0.0,0.0,15.0,1500.0,15.0,600.0,2.5,0.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,5.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+2,FatToSlim,Beauty/Fashion,Bangalore,Karnataka,Middle,,,0.0,1.4,2.0,200.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,CheeseCake&Co.,F&B,Delhi,Delhi,Middle,,,0.0,19.4,10.0,500.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Dabble,Manufacturing,Bangalore,Karnataka,Middle,75.0,,3.3,0.8699999999999999,5.0,50.0,1.5,15.0,10.0,3.5,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0
+2,CloudTailor,Business Services,"Bangalore,Hyderabad","Karnataka,Telangana",Middle,,,0.0,3.4,10.0,714.2857143,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,BeUnic,Business Services,Noida,Uttar Pradesh,Middle,,,5.0,0.6,10.0,100.0,0.0,0.0,,0.0,,,0,1,0.0,3,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Broomees,Business Services,Delhi,Delhi,Middle,,,0.0,0.0,8.0,400.0,10.0,333.3333333,3.0,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,3.3329999999999997,0.0,0.0,3.3329999999999997,3.3329999999999997,0.0,0.0,0.0
+2,Ravel,Beauty/Fashion,Amaravati,Maharashtra,Middle,,,0.0,4.0,7.5,300.0,7.5,75.0,10.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0
+2,HoneyVeda,F&B,Ahmedabad,Gujarat,Middle,20.0,,5.3,0.0,7.5,100.0,5.0,25.0,20.0,2.5,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,2.5,2.5,0.0,0.0,0.0,0.0,0.0
+2,PadCare,Manufacturing,Pune,Maharashtra,Young,,,0.0,1.4,5.0,250.0,10.0,250.0,4.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,2.5,2.5,2.5,0.0,2.5,0.0,0.0,0.0
+2,SwadeshiBlessings,Lifestyle/Home,Udaipur,Rajasthan,Middle,60.0,,12.0,2.8,5.0,100.0,2.5,50.0,5.0,2.5,,2.0,1,1,1.0,3,1.0,2.0,0,Mixed Team,1.25,1.25,0.0,0.0,0.0,0.0,0.0,0.0
+2,OLL,Technology/Software,Mumbai,Maharashtra,Young,,,0.0,0.0,3.0,150.0,3.0,60.0,5.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,1.5,0.0,0.0,1.5,0.0,0.0,0.0
+2,Febris,Medical/Health,Ferozepur,Punjab,Middle,,20.0,11.0,1.2,10.0,400.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Geeani,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Middle,,,0.0,0.0,7.5,100.0,10.0,100.0,10.0,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,3.3329999999999997,3.3329999999999997,3.3329999999999997,0.0,0.0,0.0,0.0
+2,Amore,F&B,"Hyderabad,Mumbai","Telangana,Maharashtra",Middle,,,0.0,0.0,7.5,187.5,7.5,100.0,7.5,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0
+2,LeafyAffair,Beauty/Fashion,Bangalore,Karnataka,Middle,80.0,,11.0,2.1,5.0,200.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ScrapUncle,Other,Delhi,Delhi,Young,25.0,,60.0,0.0,6.0,200.0,6.0,120.0,5.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+2,SharmaJiKiAata,F&B,Pune,Maharashtra,Middle,63.0,38.0,0.0,0.0,4.0,40.0,4.0,20.0,20.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+2,Manetain,Beauty/Fashion,"Kochi,Mumbai","Kerala,Maharashtra",Young,60.0,,10.0,1.2,7.5,300.0,7.5,75.0,10.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0
+2,GavinParis,Beauty/Fashion,Kolkata,West Bengal,Young,60.0,,11.4,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,UnStop,Technology/Software,Delhi,Delhi,Middle,90.0,,160.0,0.0,10.0,1000.0,20.0,500.0,4.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,5.0,0.0,5.0,5.0,0.0,0.0,5.0,0.0
+2,BlueTea,F&B,"Faridabad,Kolkata","Haryana,West Bengal",Middle,,19.0,100.0,0.0,7.5,750.0,5.0,166.6666667,3.0,2.5,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+2,TheGreenSnack,F&B,Mumbai,Maharashtra,Middle,,,0.0,2.5,10.0,500.0,10.0,125.0,8.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,HobbyIndia,Lifestyle/Home,Surat,Gujarat,Young,,,11.7,0.0,5.0,166.6666667,0.0,0.0,,0.0,,,0,1,0.0,3,1.0,2.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Flhexible,Lifestyle/Home,Jaipur,Rajasthan,Middle,40.0,25.0,1.6,0.35,5.0,66.66666667,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,UpThrust,Fitness/Sports/Outdoors,Mumbai,Maharashtra,Young,,30.0,30.0,3.3,7.5,250.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Zoff,F&B,Raipur,Chhattisgarh,Middle,,,0.0,70.0,10.0,2000.0,10.0,800.0,1.25,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+2,DesiToys,Manufacturing,Mumbai,Maharashtra,Middle,50.0,18.0,11.5,2.0,5.0,166.6666667,0.0,0.0,,0.0,,,0,1,0.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,CloudWorx,Technology/Software,Bangalore,Karnataka,Middle,,,0.0,1.4,4.0,200.0,4.0,125.0,3.2,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+2,Mahantam,Manufacturing,Banaskantha,Gujarat,Young,,,0.0,0.0,3.0,30.0,3.0,15.0,20.0,0.0,,5.0,1,1,1.0,2,2.0,,0,Male Team,0.6,0.6,0.6,0.6,0.6,0.0,0.0,0.0
+2,MindPeers,Medical/Health,Delhi,Delhi,Middle,,,0.0,0.0,5.3,530.0,10.6,530.0,2.0,0.0,,4.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,1.766,1.766,0.0,1.766,5.3,0.0,0.0,0.0
+2,Barosi,F&B,Pataudi,Haryana,Middle,40.0,,0.0,4.2,5.0,250.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Daryaganj,F&B,Delhi,Delhi,Middle,,,0.0,30.0,9.0,1800.0,9.0,900.0,1.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+2,DhruvVidyut,Vehicles/Electrical Vehicles,Delhi,Delhi,Middle,,,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,,3.0,0,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,CELLBELL,Lifestyle/Home,Ulhasnagar,Maharashtra,Middle,52.0,,0.0,40.0,9.0,600.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Tipayi,Manufacturing,Pune,Maharashtra,Young,35.0,26.0,2.1,0.05,5.0,50.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,DigiQure,Medical/Health,Bhopal,Madhya Pradesh,Middle,,,0.0,0.0,4.0,100.0,4.0,40.0,10.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Nirmalaya,Manufacturing,Delhi,Delhi,Middle,,,0.0,8.0,6.0,400.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Pabiben,Beauty/Fashion,Ahmedabad,Gujarat,Middle,50.0,35.0,0.0,0.0,5.0,100.0,1.0,20.0,5.0,4.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Homestrap,Lifestyle/Home,Indore,Madhya Pradesh,Middle,55.0,,0.0,0.0,7.0,700.0,5.0,71.42857143,7.0,2.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+2,uBreathe,Manufacturing,Gurgaon,Haryana,Middle,,,0.0,0.0,15.0,200.0,5.0,100.0,5.0,10.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Deyor,Technology/Software,Gurgaon,Haryana,Middle,25.0,5.0,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,iMumz,Medical/Health,Bangalore,Karnataka,Middle,,,0.0,0.0,7.0,700.0,1.0,100.0,1.0,6.0,,1.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,TheHealthyBinge,F&B,Pune,Maharashtra,Middle,,,0.0,1.1,5.0,100.0,5.0,100.0,5.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0
+2,Freakins,Beauty/Fashion,Mumbai,Maharashtra,Middle,63.0,,0.0,0.0,7.0,700.0,5.0,200.0,2.5,2.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Perfora,Lifestyle/Home,"Ballarpur,Karnal","Haryana,Maharashtra",Young,57.0,,0.0,0.0,8.0,800.0,8.0,320.0,2.5,0.0,,3.0,1,1,1.0,2,2.0,,0,Male Team,2.666,2.666,0.0,0.0,2.666,0.0,0.0,0.0
+2,MidNightAngelsByPC,Beauty/Fashion,Gurgaon,Haryana,Middle,83.0,20.0,18.0,0.0,7.5,125.0,0.0,0.0,,0.0,,,0,1,0.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,CureSee,Medical/Health,Gurgaon,Haryana,Middle,,,0.0,26.4,4.0,80.0,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+2,MeduLance,Medical/Health,Delhi,Delhi,Middle,,24.0,24.0,0.0,20.0,2000.0,20.0,1000.0,2.0,0.0,,3.0,1,1,1.0,2,2.0,,0,Male Team,6.6659999999999995,0.0,0.0,6.6659999999999995,6.6659999999999995,0.0,0.0,0.0
+2,Cakelicious,F&B,Kolkata,West Bengal,Middle,60.0,40.0,0.0,0.3,2.5,50.0,2.5,12.5,20.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0
+2,Bowled.io,Fitness/Sports/Outdoors,Mumbai,Maharashtra,Middle,,,0.0,0.0,8.0,800.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Toyshine,Manufacturing,Jalandhar,Punjab,Middle,,15.0,450.0,45.0,12.5,2500.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,neuphony,Medical/Health,Noida,Uttar Pradesh,Young,,,0.0,0.0,10.0,500.0,10.0,185.1851852,5.4,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+2,Amrutam,F&B,Gwalior,Madhya Pradesh,Middle,,,11.0,0.0,5.0,250.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,HoloKitab,Technology/Software,Jalandhar,Punjab,Middle,,,0.0,0.0,4.5,45.0,4.5,18.0,25.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Zoe,F&B,Gurgaon,Haryana,Middle,,,12.0,0.0,7.5,150.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Hornback,Vehicles/Electrical Vehicles,Hyderabad,Telangana,Middle,,,0.0,0.0,5.0,500.0,5.0,200.0,2.5,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+2,Malaki,F&B,Mumbai,Maharashtra,Middle,56.0,13.0,27.0,4.2,5.0,500.0,5.0,166.6666667,3.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,2.5,2.5,0.0,0.0,0.0
+2,nanoclean,Manufacturing,Bikaner,Rajasthan,Middle,,,11.0,0.5,8.0,400.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,DesmondJi,Other,Goa,Goa,Middle,,,120.0,12.5,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Cremeitalia,F&B,Mumbai,Maharashtra,Middle,,,0.0,6.2,9.0,600.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,nawgati,Business Services,Noida,Uttar Pradesh,Young,,,0.0,0.0,6.7,335.0,6.7,223.3333333,3.0,0.0,,2.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,3.35,0.0,0.0,3.35,0.0
+2,Swytchd,Vehicles/Electrical Vehicles,Bangalore,Karnataka,Middle,,,0.0,0.0,5.0,166.6666667,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GladFul,F&B,Jaipur,Rajasthan,Middle,,,0.0,2.4,5.0,250.0,5.0,142.8571429,3.5,0.0,,3.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,1.666,0.0,0.0,1.666,0.0,0.0,1.666,0.0
+2,Pharmallama,Medical/Health,Bangalore,Karnataka,Middle,,,0.0,2.4,10.0,666.6666667000001,20.0,400.0,5.0,0.0,,5.0,1,1,1.0,3,3.0,,0,Male Team,4.0,0.0,4.0,4.0,4.0,0.0,4.0,0.0
+2,CraveRajaFoods,F&B,Kolkata,West Bengal,Middle,70.0,3.0,25.6,2.0,6.5,216.6666667,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,VAPerfume,Lifestyle/Home,Mumbai,Maharashtra,Middle,56.0,35.0,0.0,0.0,10.0,100.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Hood,Technology/Software,Gurgaon,Haryana,Middle,,,0.0,0.0,12.0,6000.0,6.0,1111.111111,0.54,6.0,,2.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0
+2,TwistingScoops,F&B,Delhi,Delhi,Young,,40.0,0.0,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GROWiT,Other,Surat,Gujarat,Middle,22.0,,0.0,0.0,10.0,1000.0,5.0,500.0,1.0,5.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,2.5,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+2,Makino,F&B,Himmatnagar,Gujarat,Young,40.0,,0.0,0.25,20.0,1000.0,0.0,0.0,,0.0,,,0,0,,4,4.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Trunome,Medical/Health,Chennai,Tamil Nadu,Middle,,,0.0,0.0,15.0,1500.0,15.0,750.0,2.0,0.0,,4.0,1,1,1.0,2,2.0,,0,Male Team,0.0,3.75,3.75,3.75,3.75,0.0,0.0,0.0
+2,Wol3D,Manufacturing,Mumbai,Maharashtra,Middle,30.0,,0.0,0.0,15.0,1500.0,8.0,400.0,2.0,7.0,,1.0,1,1,1.0,4,2.0,2.0,1,Mixed Team,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+2,What'sUpWellness,F&B,Kolkata,West Bengal,Middle,,,0.0,3.0,5.0,166.6666667,6.0,126.0504202,4.76,0.0,,3.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0
+2,ProostBeer,F&B,Delhi,Delhi,Middle,,,0.0,0.0,10.0,1333.333333,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,DrCubes,F&B,Bangalore,Karnataka,Middle,45.0,35.0,7.5,0.0,8.0,53.33333333,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,MetroRide,Vehicles/Electrical Vehicles,Bangalore,Karnataka,Middle,,,5.4,2.5,7.5,750.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Conker,Technology/Software,Bangalore,Karnataka,Middle,50.0,8.0,12.0,2.2,4.0,400.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,WTF,F&B,Kolkata,West Bengal,Middle,,,0.0,0.0,7.5,150.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,funngro,Technology/Software,Mumbai,Maharashtra,Middle,,,0.0,0.0,5.0,400.0,5.0,120.19230769999999,4.16,0.0,,2.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,2.5,0.0,0.0,0.0,0.0,0.0,2.5,0.0
+2,Aadvik,F&B,Delhi,Delhi,Middle,,,72.0,5.0,6.0,400.0,1.5,100.0,1.5,4.5,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,1.5,0.0
+2,oyehappy,Business Services,Hyderabad,Telangana,Middle,80.0,,100.5,8.0,5.0,500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,HealthyMaster,F&B,Bangalore,Karnataka,Middle,45.0,,0.0,2.0,5.0,250.0,5.0,76.92307692,6.5,0.0,,1.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Kitsons,Lifestyle/Home,Hyderabad,Telangana,Middle,,,0.0,0.0,100.0,1000.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,LondonBubble,F&B,Mumbai,Maharashtra,Middle,,,0.0,0.0,7.5,150.0,7.5,50.0,15.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,WaggyZone,Other,Mumbai,Maharashtra,Middle,60.0,,0.0,0.1,5.0,100.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,NutriCook,F&B,"Bangalore,Punganur","Karnataka,Andhra Pradesh",Middle,,,1.3,0.0,10.0,500.0,5.0,50.0,10.0,5.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Subhag,Medical/Health,"Jhumri Telaiya,Raipur","Jharkhand,Chhattisgarh",Middle,,,0.0,0.0,5.0,500.0,2.0,200.0,1.0,3.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,SinghStyled,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,0.0,0.75,5.0,100.0,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+2,ZSportsTech,Fitness/Sports/Outdoors,Mumbai,Maharashtra,Middle,,,3.1,0.0,6.0,300.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ThePlatedProject,Business Services,Mumbai,Maharashtra,Middle,,,0.0,0.0,7.5,375.0,7.5,200.0,3.75,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,2.5,2.5,0.0,2.5,0.0,0.0,0.0,0.0
+2,VsnapU,Business Services,Goa,Goa,Middle,,,0.0,1.5,5.0,333.3333333,0.0,0.0,,0.0,,,0,0,,4,4.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TheHealthyFactory,F&B,Mumbai,Maharashtra,Young,56.0,,0.0,0.0,7.5,357.1428571,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Brevistay,Business Services,"Dehradun,Nainital,Lucknow","Uttarakhand,Uttar Pradesh",Young,,,0.0,4.2,10.0,602.4096386,0.0,0.0,,0.0,,,0,0,,5,5.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,SoulUp,Business Services,Bangalore,Karnataka,Middle,,,0.0,0.0,5.0,166.6666667,5.0,100.0,5.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TheBigBookBox ChapterOneBooks,Lifestyle/Home,Gopalganj,Bihar,Middle,,,14.0,0.0,5.0,62.5,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Rubans,Beauty/Fashion,Bangalore,Karnataka,Middle,,,510.0,0.0,15.0,3000.0,10.0,1000.0,1.0,5.0,,3.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,3.3329999999999997,3.3329999999999997,0.0,3.3329999999999997,0.0,0.0,0.0,0.0
+2,SameNotification,Technology/Software,"Ahmedabad,Mirzapur","Gujarat,Uttar Pradesh",Middle,,,0.0,0.0,2.5,16.66666667,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,BottomLineSprays,Lifestyle/Home,Ahmedabad,Gujarat,Middle,,,0.0,0.2,3.5,70.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,LilGoodness,F&B,Bangalore,Karnataka,Middle,65.0,,0.0,14.5,10.0,1000.0,5.0,500.0,1.0,5.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+2,ForeverModest,Beauty/Fashion,Aurangabad,Maharashtra,Young,,,0.0,0.42000000000000004,2.0,20.0,2.0,10.0,20.0,0.0,,4.0,1,1,1.0,1,,1.0,0,Female Team,0.5,0.5,0.5,0.0,0.0,0.0,0.5,0.0
+2,Sahayatha,Medical/Health,Coimbatore,Tamil Nadu,Young,,,0.0,0.0,10.0,100.0,10.0,100.0,10.0,0.0,,5.0,1,1,1.0,1,,1.0,0,Female Team,2.0,0.0,2.0,2.0,2.0,0.0,2.0,0.0
+2,WickedGud,F&B,Mumbai,Maharashtra,Middle,,,0.0,0.0,5.0,500.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,maisha,Beauty/Fashion,Ahmedabad,Gujarat,Middle,,,0.0,0.0,7.5,250.0,1.0,100.0,1.0,6.5,,1.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+2,NishHair,Beauty/Fashion,Mumbai,Maharashtra,Middle,,30.0,67.0,8.0,10.0,500.0,10.0,500.0,2.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+2,MYBYK,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Middle,,,0.0,0.0,20.0,2000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,GODESi,F&B,Bangalore,Karnataka,Middle,,,0.0,27.0,9.0,1800.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,TAC,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,0.0,0.0,15.0,3000.0,8.1,810.0,1.0,6.9,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,4.05,0.0,0.0,0.0,4.05
+2,Naara-Aaba,Other,Ziro,Arunachal Pradesh,Middle,50.0,18.0,0.0,0.0,7.5,300.0,5.0,100.0,5.0,2.5,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,2.5,0.0,0.0,0.0,0.0,0.0,2.5
+2,StyloBug,Beauty/Fashion,Delhi,Delhi,Middle,,18.0,140.0,4.6,8.0,400.0,8.0,80.0,10.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0
+2,ZenOnco,Medical/Health,Jodhpur,Rajasthan,Middle,,,0.0,2.1,10.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,HonestHome,Other,Dhampur,Uttar Pradesh,Middle,,5.0,140.0,14.2,10.0,500.0,10.0,333.3333333,3.0,0.0,1.0,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+3,AdilQadri,Beauty/Fashion,Bilimora,Gujarat,Young,70.0,,207.0,60.0,10.0,2000.0,10.0,1000.0,1.0,0.0,1.0,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,ConsciousChemist,Beauty/Fashion,Jaipur,Rajasthan,Middle,,,45.0,8.5,6.0,300.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,TheCinnamonKitchen,F&B,Chandigarh,Punjab,Middle,,,8.2,0.0,6.0,300.0,6.0,120.0,5.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+3,WtfGyms,Business Services,Noida,Uttar Pradesh,Middle,,,0.0,6.5,10.0,500.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Intervue,Technology/Software,"Ludhiana,Ghaziabad","Punjab,Uttar Pradesh",Young,,,87.0,0.0,15.0,1500.0,15.0,750.0,2.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+3,RodBez,Vehicles/Electrical Vehicles,Saharsa,Bihar,Middle,,,0.0,0.6,5.0,100.0,2.0,40.0,5.0,3.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+3,Blix,Technology/Software,Mumbai,Maharashtra,Middle,50.0,,40.0,3.6,8.0,400.0,8.0,200.0,4.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0
+3,Homversity,Technology/Software,Ahmedabad,Gujarat,Young,,,0.0,10.0,6.5,325.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,TURMS,Beauty/Fashion,Bangalore,Karnataka,Old,,,7.0,8.6,12.0,600.0,12.0,300.0,4.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+3,mintree,Beauty/Fashion,Nagpur,Maharashtra,Middle,,,90.0,0.0,9.0,900.0,9.0,600.0,1.5,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,4.5,0.0,0.0,4.5
+3,80Wash,Manufacturing,Chandigarh,Punjab,Middle,,,0.0,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,DilFoods,F&B,Ranchi,Jharkhand,Middle,,,70.0,0.0,5.0,1000.0,20.0,749.0636704,2.67,0.0,,4.0,1,1,1.0,1,,1.0,0,Female Team,0.0,5.0,0.0,0.0,5.0,5.0,0.0,5.0
+3,AIKavach/Panoplia,Technology/Software,Hyderabad,Telangana,Middle,,,0.0,0.0,5.0,400.0,10.0,400.0,2.5,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0
+3,Bartisans,Other,Mumbai,Maharashtra,Middle,70.0,,14.3,3.5,10.0,400.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Aretto,Manufacturing,Pune,Maharashtra,Middle,57.0,,70.0,6.0,8.0,800.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Kalakaram,Manufacturing,Gurgaon,Haryana,Middle,,23.0,50.0,5.0,5.0,200.0,6.0,0.0,6.0,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,2.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
+3,NabhiSutra,Beauty/Fashion,Vadodara,Gujarat,Middle,,8.0,45.0,5.0,6.0,200.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Zorko,F&B,Surat,Gujarat,Young,40.0,20.0,300.0,24.0,15.0,1500.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Tramboo,Fitness/Sports/Outdoors,Srinagar,Jammu & Kashmir,Young,,25.0,60.0,1.8,3.0,100.0,3.0,75.0,4.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,1.5,1.5,0.0,0.0,0.0
+3,WeHear,Medical/Health,Ahmedabad,Gujarat,Middle,,,28.2,9.3,25.0,2500.0,25.0,2500.0,1.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0
+3,Tiggle,F&B,Agra,Uttar Pradesh,Young,,,15.0,1.2,5.0,100.0,5.0,25.0,20.0,0.0,2.0,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,2.5,0.0,2.5,0.0
+3,WYLDCard,Technology/Software,Mumbai,Maharashtra,Middle,,,0.0,0.0,5.0,1000.0,7.5,500.0,1.5,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0
+3,upliance.ai,Lifestyle/Home,Bangalore,Karnataka,Middle,,,0.0,0.0,10.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,PizzaGalleria,F&B,Gohana,Haryana,Middle,,15.0,11.5,0.0,10.0,500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,AiCars,Vehicles/Electrical Vehicles,Yavatmal,Maharashtra,Young,,,0.0,0.0,20.0,500.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,RooftopApp,Technology/Software,Mumbai,Maharashtra,Middle,,,0.0,0.0,20.0,500.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,GoenchiFeni,Other,Goa,Goa,Middle,42.0,,0.0,0.0,10.0,200.0,20.0,133.3333333,15.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+3,Arata,Beauty/Fashion,Delhi,Delhi,Middle,,5.0,17.0,20.0,10.0,800.0,10.0,751.8796992,1.33,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Vecros,Technology/Software,Delhi,Delhi,Young,,,0.0,0.9,10.0,400.0,2.0,200.0,1.0,8.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+3,GudGum,F&B,Bangalore,Karnataka,Young,,,0.0,0.0,5.0,100.0,8.0,80.0,10.0,0.0,4.0,4.0,1,1,1.0,2,2.0,,0,Male Team,0.0,2.0,2.0,2.0,0.0,2.0,0.0,0.0
+3,EvaScalp,Medical/Health,Mumbai,Maharashtra,Middle,85.0,,5.9,1.0,3.0,250.0,3.0,166.6666667,1.8,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+3,Elitty,Beauty/Fashion,Gurgaon,Haryana,Middle,36.0,,11.3,1.1,10.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,HoneyTwigs,F&B,Delhi,Delhi,Middle,,,40.0,3.5,7.5,250.0,7.5,250.0,3.0,0.0,,3.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,2.5,0.0,2.5,2.5,0.0,0.0
+3,Koparo,F&B,Delhi,Delhi,Middle,,,45.0,8.0,7.0,700.0,7.0,700.0,1.0,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,3.5,0.0,3.5,0.0,0.0,0.0,0.0
+3,2Ballz,Beauty/Fashion,Indore,Madhya Pradesh,Middle,,,0.0,16.4,3.0,60.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,JewelBox,Beauty/Fashion,Kolkata,West Bengal,Middle,,,52.0,0.0,10.0,500.0,20.0,333.3333333,6.0,0.0,,5.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,4.0,0.0,4.0,4.0,4.0,0.0,4.0
+3,DaakRoom,Business Services,Delhi,Delhi,Middle,,,9.0,0.0,3.6,90.0,3.6,60.0,6.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0
+3,Nuvedo,F&B,Bangalore,Karnataka,Middle,,,2.5,0.0,5.0,166.6666667,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,WALK,Medical/Health,Mumbai,Maharashtra,Young,,,0.0,0.0,5.0,333.3333333,5.0,217.3913043,2.3,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0
+3,RajaRaniCoaching,Beauty/Fashion,Surat,Gujarat,Young,,,20.0,0.0,13.0,260.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,DecodeAge,Medical/Health,Bangalore,Karnataka,Middle,70.0,,110.0,0.0,10.0,800.0,10.0,444.44444439999995,2.25,0.0,1.0,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+3,ALittleExtra,Beauty/Fashion,Guwahati,Assam,Middle,,11.0,12.2,0.0,4.8,80.0,6.0,80.0,7.5,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+3,Assembly,Beauty/Fashion,Gurugram,Haryana,Middle,,,115.0,0.0,8.5,850.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,NasherMiles,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,570.0,0.0,30.0,4000.0,30.0,2000.0,1.5,0.0,1.0,5.0,1,1,1.0,3,2.0,1.0,1,Mixed Team,6.0,6.0,6.0,6.0,0.0,6.0,0.0,0.0
+3,AltCo,F&B,Bangalore,Karnataka,Middle,,,100.0,11.0,15.0,750.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Without,Beauty/Fashion,Pune,Maharashtra,Middle,,,0.0,0.0,7.5,750.0,7.5,250.0,3.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,3.75,0.0,0.0,3.75
+3,Kibo,Technology/Software,"Faridabad,Ahmedabad","Haryana,Gujarat",Middle,,30.0,13.5,0.0,6.0,600.0,6.0,100.0,6.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0
+3,VOLD,F&B,Ahmednagar,Maharashtra,Young,38.0,25.0,0.0,0.3,5.0,250.0,1.0,10.0,10.0,4.0,3.0,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,Quirksmith,Beauty/Fashion,Agra,Uttar Pradesh,Middle,,4.0,60.0,7.5,8.0,800.0,0.0,0.0,,0.0,,,0,1,0.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,UrbanSpace,Lifestyle/Home,Ahmedabad,Gujarat,Middle,,,205.0,80.0,18.0,1800.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,HyperLab,Fitness/Sports/Outdoors,Ahmedabad,Gujarat,Young,,,0.0,0.0,1.0,100.0,2.5,250.0,1.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+3,EcoBiotraps,Other,"Ahmedabad,Pune","Gujarat,Maharashtra",Middle,25.0,4.0,8.4,0.8,5.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Hoora,Technology/Software,Nagpur,Maharashtra,Middle,60.0,,0.0,3.1,8.0,400.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,YesMadam,Beauty/Fashion,Delhi,Delhi,Middle,,,500.0,0.0,15.0,3000.0,15.0,750.0,2.0,0.0,2.0,4.0,1,1,1.0,4,3.0,1.0,0,Mixed Team,0.0,3.75,0.0,3.75,3.75,3.75,0.0,0.0
+3,Zerodor,Lifestyle/Home,"Ahmedabad,Mumbai","Gujarat,Maharashtra",Middle,,7.0,28.0,0.0,10.0,333.3333333,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,ToffeeCoffeeRoasters,F&B,Bangalore,Karnataka,Middle,62.0,,23.0,3.3,6.0,300.0,3.5,150.2145923,2.33,2.5,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,3.5,0.0,0.0
+3,PushSports,Fitness/Sports/Outdoors,Delhi,Delhi,Middle,,,90.0,5.0,8.0,800.0,8.0,200.0,4.0,0.0,2.0,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0
+3,ORBO,Technology/Software,Mumbai,Maharashtra,Middle,,,0.0,1.8,10.0,1333.333333,10.0,1000.0,1.0,0.0,,1.0,1,1,1.0,3,3.0,,0,Male Team,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,CannazoIndia,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,5.0,1.8,15.0,300.0,0.0,0.0,,0.0,,,0,1,0.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Chefling,F&B,Mumbai,Maharashtra,Young,70.0,45.0,2.0,0.2,4.0,40.0,4.0,25.0,16.0,0.0,,4.0,1,1,1.0,1,1.0,,0,Male Team,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+3,IntenseFocus,Beauty/Fashion,,,Middle,60.0,,82.5,10.0,50.0,1000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,MilletAmma,F&B,Bangalore,Karnataka,Middle,,,22.0,3.3,10.0,333.3333333,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,D'chica,Beauty/Fashion,Delhi,Delhi,Middle,,,103.0,12.0,8.0,800.0,8.0,400.0,2.0,0.0,,2.0,1,1,1.0,2,,2.0,0,Female Team,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Refit,Other,Delhi,Delhi,Middle,14.0,,1870.0,350.0,20.0,4000.0,20.0,2000.0,1.0,0.0,1.0,3.0,1,1,1.0,2,2.0,,0,Male Team,0.0,6.6659999999999995,6.6659999999999995,0.0,0.0,0.0,6.6659999999999995,0.0
+3,HouseOfBeautyIndia,Beauty/Fashion,Delhi,Delhi,Middle,,,0.0,4.0,15.0,300.0,0.0,0.0,,0.0,,,0,0,,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Artinci,F&B,Bangalore,Karnataka,Middle,62.0,,44.0,3.3,5.0,285.7142857,5.0,100.0,5.0,0.0,1.0,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,TheRageRoom,Business Services,Hyderabad,Telangana,Middle,,,0.0,0.0,2.0,6.666666666999999,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Aastey,Beauty/Fashion,"Delhi,Mumbai","Delhi,Maharashtra",Middle,,,0.0,15.0,8.0,400.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Matri,Medical/Health,Kolkata,West Bengal,Middle,,,0.0,0.0,6.0,150.0,6.0,150.0,4.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+3,Rubbabu,Manufacturing,Delhi,Delhi,Old,,,40.0,5.2,20.0,400.0,0.0,0.0,,0.0,,,0,0,,3,1.0,2.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,GulaboJaipur,Beauty/Fashion,Jaipur,Rajasthan,Middle,,,45.0,7.2,9.0,900.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,AristaVault,Manufacturing,Delhi,Delhi,Middle,,,36.0,6.5,4.5,300.0,2.0,200.0,1.0,2.5,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+3,ToHands,Technology/Software,"Erode,Kanpur","Tamil Nadu,Uttar Pradesh",Young,,,0.0,0.0,5.5,550.0,6.0,300.0,2.0,0.0,,2.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+3,PlusGold,Technology/Software,Bangalore,Karnataka,Middle,,,0.0,0.0,6.0,600.0,6.0,400.0,1.5,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+3,Aroleap,Medical/Health,Bangalore,Karnataka,Middle,,,10.0,0.0,10.0,400.0,10.0,200.0,5.0,0.0,,4.0,1,1,1.0,3,3.0,,0,Male Team,0.0,0.0,2.5,0.0,2.5,0.0,2.5,2.5
+3,Cosmix,Medical/Health,,,Middle,70.0,,75.0,0.0,10.0,1000.0,10.0,1000.0,1.0,0.0,1.0,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Fabriclore,Beauty/Fashion,Jaipur,Rajasthan,Middle,,,100.0,0.0,6.87,687.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,PolishMePretty,Beauty/Fashion,Pune,Maharashtra,Young,,,0.0,0.0,2.5,10.0,2.5,10.0,25.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0
+3,GridMats,Manufacturing,,,Middle,,,45.0,0.0,50.0,2500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,UnclePetersPanCakes,F&B,"Kolkata,Varanasi","West Bengal,Uttar Pradesh",Middle,,,140.0,21.0,6.0,300.0,6.0,200.0,3.0,0.0,3.0,3.0,1,1,1.0,2,2.0,,0,Male Team,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+3,CreativeHatti,Business Services,Panchkula,Haryana,Middle,,,40.0,5.5,6.0,300.0,0.0,0.0,,0.0,,,0,0,,5,3.0,2.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,CandidMen,Beauty/Fashion,Bangalore,Karnataka,Middle,,,21.0,0.0,6.0,300.0,6.0,120.0,5.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0
+3,Flyrobe,Beauty/Fashion,Delhi,Delhi,Middle,,16.0,29.0,6.3,5.0,500.0,5.0,125.0,4.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+3,WiseLife,Medical/Health,Gurugram,Haryana,Middle,,3.0,40.0,10.0,6.0,300.0,12.0,300.0,4.0,0.0,,4.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,3.0,0.0,3.0,3.0,0.0,3.0,0.0,0.0
+3,Cervicheck,Medical/Health,Vadodara,Gujarat,Middle,,,0.0,0.0,7.5,500.0,7.5,150.0,5.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Eatverse,F&B,Kolkata,West Bengal,Middle,,,10.7,17.2,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,AvataarSkincare,Beauty/Fashion,Bhopal,Madhya Pradesh,Middle,87.0,,0.0,6.0,7.0,700.0,3.5,700.0,0.5,3.5,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,1.75,1.75,0.0,0.0,0.0,0.0
+3,ChalteFirteMangalkaryalay,Business Services,Latur,Maharashtra,Middle,,,0.0,0.0,20.0,200.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,KryzenBiotech,Other,Pune,Maharashtra,Middle,,,22.5,0.0,7.5,250.0,7.5,50.0,15.0,0.0,2.0,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,7.5,0.0,0.0,0.0
+3,FOMO,F&B,Bangalore,Karnataka,Young,50.0,,0.0,0.33999999999999997,3.5,87.5,3.5,58.33333333,6.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,1.75,1.75,0.0,0.0,0.0,0.0
+3,ModelVerse,Technology/Software,Kozhikode,Kerala,Young,,,0.0,0.0,2.5,25.0,2.5,25.0,10.0,0.0,,3.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.833,0.0,0.0,0.833,0.833,0.0
+3,VikrantBikes,Vehicles/Electrical Vehicles,Satara,Maharashtra,Young,,,0.0,0.0,3.0,60.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,TheShellHair,Beauty/Fashion,Ajmer,Rajasthan,Young,,35.0,12.0,0.9730000000000001,3.0,100.0,3.0,100.0,3.0,0.0,,1.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+3,Rize,F&B,Gurgaon,Haryana,Young,,,0.0,0.0,4.5,75.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,MEPACK,Business Services,Delhi,Delhi,Young,,,0.0,0.0,0.7,7.0,0.7,7.0,10.0,0.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.35,0.35,0.0
+3,BaccaBucci,Beauty/Fashion,Delhi,Delhi,Young,55.0,,470.0,0.0,25.0,2500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Vobble,Education/Kids,Bangalore,Karnataka,Middle,,,0.0,0.0,2.5,166.6666667,2.5,125.0,2.0,0.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,BeUNatural,Beauty/Fashion,Delhi,Delhi,Middle,,25.0,40.0,2.8,6.0,240.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Erotissch,Beauty/Fashion,Agra,Uttar Pradesh,Middle,63.0,1.0,38.0,0.0,7.5,250.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Niblerzz,F&B,Mumbai,Maharashtra,Middle,,,1.6,0.55,5.0,166.6666667,1.0,20.0,5.0,4.0,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+3,Sorich,F&B,Delhi,Delhi,Middle,48.0,,70.6,5.5,9.0,360.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,LittleBox,Beauty/Fashion,Guwahati,Assam,Middle,50.0,,360.0,20.0,7.5,750.0,7.5,300.0,2.5,0.0,,5.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,1.5,1.5,1.5,1.5,0.0,0.0,1.5,0.0
+3,CremeCastle,F&B,Noida,Uttar Pradesh,Middle,65.0,,72.0,0.0,6.0,400.0,6.0,240.0,2.5,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+3,Namakwali,F&B,,Uttarakhand,Middle,,17.0,3.8,0.3,5.0,100.0,1.0,20.0,5.0,4.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+3,KariboCosmetics,Beauty/Fashion,Mumbai,Maharashtra,Young,60.0,50.0,8.0,0.0,8.0,160.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Deeva,Beauty/Fashion,Bangana,Himachal Pradesh,Middle,60.0,,70.0,5.8,20.0,500.0,7.5,125.0,6.0,12.5,,3.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,2.5,0.0,2.5,0.0,2.5
+3,DesignTemplate,Technology/Software,Bid,Maharashtra,Middle,,,16.0,1.6,10.0,400.0,10.0,100.0,10.0,0.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+3,Sama,Business Services,Delhi,"Delhi,Bihar,Kerala",Middle,,25.0,64.0,10.0,10.0,1000.0,10.0,666.6666667000001,1.5,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,3.3329999999999997,0.0,0.0,3.3329999999999997,0.0,3.3329999999999997,0.0,0.0
+3,GoldenFeathers,Manufacturing,Jaipur,Rajasthan,Middle,,,15.0,0.0,50.0,1000.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Myracle.io,Technology/Software,Mumbai,Maharashtra,Middle,,,0.0,0.0,12.0,400.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Cup-ji,F&B,Mumbai,Maharashtra,Middle,40.0,,6.2,0.35,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,AToddlerThing,Beauty/Fashion,Coimbatore,Tamil Nadu,Middle,52.0,,47.8,7.3,8.0,400.0,4.0,200.0,2.0,4.0,3.0,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0
+3,FlexifyMe,Medical/Health,Pune,Maharashtra,Middle,60.0,,0.0,3.3,10.0,500.0,5.0,378.7878788,1.32,5.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Dharaksha,Other,Faridabad,Haryana,Middle,,,0.0,0.0,0.00125,0.125,0.00125,0.125,1.0,0.0,,5.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.00025,0.00025,0.00025,0.00025,0.00025,0.0,0.0
+3,iDreamCareer,Technology/Software,"Delhi,Bangalore","Delhi,Karnataka",Middle,,,84.0,0.0,11.0,859.375,6.0,600.0,1.0,5.0,,2.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0
+3,RockPaperRum,Other,Mumbai,Maharashtra,Middle,,,0.0,0.0,5.0,250.0,2.0,200.0,1.0,3.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Fit&Flex,F&B,Ahmedabad,Gujarat,Middle,,8.0,46.0,0.0,10.0,333.3333333,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Sukham,Medical/Health,Delhi,Delhi,Middle,,,4.7,2.1,10.0,300.3003003,0.0,0.0,,0.0,,,0,0,,4,3.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Smotect,Medical/Health,Mumbai,Maharashtra,Middle,80.0,,28.1,10.0,10.0,1000.0,5.0,100.0,5.0,5.0,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+3,Katidhan,Manufacturing,Bangalore,Karnataka,Middle,50.0,30.0,6.0,0.0,15.0,600.0,7.5,150.0,5.0,7.5,,1.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0
+3,NEMAAI,Technology/Software,Delhi,Delhi,Middle,,,0.0,0.03,8.0,160.0,4.0,50.0,8.0,4.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,MaplePods,Business Services,Delhi,Delhi,Middle,,,0.0,0.0,15.0,300.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,SpecOps,Other,,,Middle,20.0,8.0,62.6,7.0,8.0,400.0,4.0,200.0,2.0,4.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+3,KaabilKids,Technology/Software,Noida,Uttar Pradesh,Middle,,,0.0,2.9,7.0,350.0,5.0,200.0,2.5,2.0,,2.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+3,OddGiraffe,Lifestyle/Home,Mumbai,Maharashtra,Middle,80.0,,41.0,2.7,7.5,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Nemocare,Medical/Health,"Hyderabad,Bangalore","Telangana,Karnataka",Middle,66.0,,9.0,0.0,10.0,400.0,2.0,298.5074627,0.67,8.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+3,WhySoBlue,Beauty/Fashion,Mumbai,Maharashtra,Middle,,10.0,30.0,0.0,7.5,250.0,4.0,133.3333333,3.0,3.5,,1.0,1,1,1.0,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
+3,CoratiaTechnologies,Technology/Software,Rourkela,Odisha,Middle,,,12.8,0.0,8.0,800.0,8.0,800.0,1.0,0.0,,1.0,1,1,1.0,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0
+3,Coolant,Manufacturing,Noida,Uttar Pradesh,Middle,,,11.0,0.0,9.0,900.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Xmachines,Technology/Software,Hyderabad,Telangana,Middle,,,0.0,0.0,7.2,180.0,7.2,180.0,4.0,0.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,3.6,0.0,0.0,0.0,0.0,3.6,0.0,0.0
+3,Luvottica,Lifestyle/Home,Abohar,Punjab,Middle,80.0,30.0,10.0,0.0,20.0,200.0,0.0,0.0,,0.0,,,0,0,,1,1.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,FarmDidi,F&B,"Amravati,Lucknow,Bahadurgarh","Maharashtra,Uttar Pradesh,Haryana",Middle,65.0,,6.0,1.0,5.0,250.0,10.0,100.0,10.0,0.0,,2.0,1,1,1.0,3,1.0,2.0,0,Mixed Team,0.0,5.0,0.0,0.0,5.0,0.0,0.0,0.0
+3,Popcorn,F&B,Delhi,Delhi,Middle,65.0,15.0,18.0,0.0,7.5,100.0,7.5,50.0,15.0,0.0,3.0,1.0,1,1,1.0,1,1.0,,0,Male Team,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Prorata,Business Services,Bangalore,Karnataka,Middle,,,0.0,0.0,10.0,500.0,5.0,50.0,10.0,5.0,,2.0,1,1,1.0,1,1.0,,0,Male Team,0.0,0.0,2.5,0.0,2.5,0.0,0.0,0.0
+3,Indigifts,Business Services,Jaipur,Rajasthan,Middle,75.0,,74.0,7.6,5.0,250.0,5.0,125.0,4.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,2.5,0.0,0.0,0.0,2.5,0.0,0.0
+3,AlienVersions,Vehicles/Electrical Vehicles,"Itanagar,Dehradun","Arunachal Pradesh,Uttarakhand",Young,,,0.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Rocca,F&B,Nagpur,Maharashtra,Young,60.0,,25.0,0.95,6.0,150.0,3.0,120.0,2.5,3.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+3,KikoLive,Technology/Software,Mumbai,Maharashtra,Middle,,,2.5,0.3,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Melooha,Other,Bangalore,Karnataka,Middle,,,0.0,0.0,8.0,400.0,0.0,0.0,,0.0,,,0,0,,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,FUTRStudios,Technology/Software,"Chandigarh,Ahmedabad","Punjab,Gujarat",Middle,,,4.6,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Allter,Lifestyle/Home,Delhi,Delhi,Middle,,,100.0,0.0,10.0,400.0,10.0,250.0,4.0,0.0,,3.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,3.3329999999999997,3.3329999999999997,0.0,3.3329999999999997,0.0,0.0
+3,FirstBudOrganics,F&B,Deoghar,Jharkhand,Middle,,,15.0,2.2,5.0,71.42857143,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+3,Shararat,Lifestyle/Home,Noida,Uttar Pradesh,Middle,,,33.0,2.7,6.0,85.71428571,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Competishun,Education/Kids,Jaipur,Rajasthan,Middle,,,102.5,0.0,20.0,2000.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,BombayClosetCleanse,Beauty/Fashion,Mumbai,Maharashtra,Young,,15.0,19.0,2.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,2,,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,KioskKaffee,F&B,Pune,Maharashtra,Middle,,9.0,84.0,0.0,9.0,300.0,0.0,0.0,,0.0,,,0,0,,3,3.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,NeonAttack,Lifestyle/Home,Hyderabad,Telangana,Young,,15.0,100.0,6.3,7.5,250.0,5.0,250.0,2.0,2.5,2.0,2.0,1,1,1.0,2,2.0,,0,Male Team,2.5,0.0,0.0,2.5,0.0,0.0,0.0,0.0
+3,PTal,Lifestyle/Home,Amritsar,Punjab,Young,,,39.8,0.0,5.0,500.0,10.0,312.5,3.2,0.0,,5.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,2.0,2.0,2.0,2.0,0.0,0.0,2.0,0.0
+3,RoadPilot,Technology/Software,Lucknow,Uttar Pradesh,Middle,,,0.0,0.0,8.0,160.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,SmartMop,Lifestyle/Home,Mysuru,Karnataka,Young,,,0.0,0.0,1.5,150.0,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Lea,Beauty/Fashion,Noida,Uttar Pradesh,Middle,80.0,,30.0,6.0,10.0,500.0,10.0,250.0,4.0,0.0,2.0,4.0,1,1,1.0,2,,2.0,0,Female Team,2.5,2.5,2.5,0.0,0.0,0.0,0.0,2.5
+3,$KrishnaRama,Other,Hyderabad,Telangana,Middle,,,0.0,0.0,20.0,66.66666667,0.0,0.0,,0.0,,,0,0,,2,2.0,,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Rentit4me,Business Services,Gurugram,Haryana,Middle,36.0,12.0,14.2,2.3,15.0,300.0,0.0,0.0,,0.0,,,0,0,,3,1.0,2.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,CoolTheGlobe,Other,Pune,Maharashtra,Middle,,,0.0,0.0,2.5,50.0,2.5,31.25,8.0,0.0,,2.0,1,1,1.0,1,,1.0,0,Female Team,0.0,0.0,0.0,1.25,0.0,0.0,0.0,1.25
+3,Canvaloop,Other,Surat,Gujarat,Middle,,,32.0,12.0,10.0,751.8796992,20.0,500.0,4.0,0.0,,5.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,4.0,0.0,4.0,4.0,0.0,0.0,0.0,8.0
+3,DigitalPaani,Other,Jaipur,Rajasthan,Middle,30.0,,22.0,0.0,7.0,700.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,FAEBeauty,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,100.0,0.0,10.0,1000.0,10.0,666.6666667000001,1.5,0.0,,2.0,1,1,1.0,1,0.0,1.0,0,Female Team,5.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+4,CONFECT,F&B,Delhi,Delhi,Middle,,,0.0,12.5,10.0,1000.0,10.0,500.0,2.0,0.0,2.0,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Indulge,Technology/Software,Goa,Goa,Middle,,,0.0,3.0,5.0,500.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BLFabric,Beauty/Fashion,Surat,Gujarat,Middle,,10.0,52.5,24.0,10.0,500.0,10.0,200.0,5.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0
+4,CultureCircle,Beauty/Fashion,Gurugram,Haryana,Young,,,0.0,4.4,12.0,2400.0,30.0,1000.0,3.0,0.0,,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,15.0,0.0,15.0
+4,NexeraHealth,Medical/Health,Jaipur,Rajasthan,Young,,,0.0,0.0,7.5,750.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,NOOE,Technology/Software,"Delhi,Pune","Delhi,Maharashtra",Middle,,40.0,0.0,5.0,5.0,500.0,50.0,98.03921569,51.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0
+4,GoZero,F&B,Mumbai,Maharashtra,Middle,70.0,,0.0,33.0,10.0,1000.0,10.0,666.6666667000001,1.5,0.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+4,CurveElectric,Technology/Software,Srinagar,Jammu & Kashmir,Middle,,,0.0,0.0,50.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Gudworld,F&B,Aurangabad,Maharashtra,Young,,,60.0,6.9,5.0,250.0,5.0,100.0,5.0,0.0,,1.0,1,1,1.0,2,0.0,2.0,0,Female Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+4,airth,Lifestyle/Home,Delhi,Delhi,Middle,,,60.0,4.0,6.0,600.0,10.0,270.2702703,3.7,0.0,,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0
+4,OneDios,Lifestyle/Home,Noida,Uttar Pradesh,Middle,,,35.7,0.0,7.5,500.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,InnerGize,Medical/Health,Delhi,Delhi,Middle,,,0.0,0.0,5.4,360.0,10.0,238.09523810000002,4.2,0.0,,3.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,3.3333,0.0,3.3333,0.0,3.3333
+4,PersonalTouchSkincare,Beauty/Fashion,Panipat,Haryana,Middle,,,120.0,0.0,12.0,1200.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,KIWIKisanWindow,Lifestyle/Home,Dehradun,Uttarakhand,Middle,,,50.6,0.0,5.0,500.0,25.0,250.0,10.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+4,TripoleGear,Fitness/Sports/Outdoors,Delhi,Delhi,Middle,47.0,,142.0,16.0,10.0,1000.0,7.5,652.173913,1.15,2.5,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0
+4,Neosapien,Technology/Software,"Gwalior,Indore",Madhya Pradesh,Young,,,0.0,0.0,8.0,320.0,8.0,200.0,4.0,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,MissCheesecake,F&B,Jodhpur,Rajasthan,Young,50.0,35.0,0.0,85.0,3.0,60.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,SpeedKitchen,F&B,Delhi,Delhi,Middle,,2.0,55.0,0.0,20.0,666.6666667000001,20.0,333.3333333,6.0,0.0,,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,6.6659999999999995,0.0,13.333000000000002
+4,MudgarClub,Fitness/Sports/Outdoors,,Haryana,Middle,,,0.0,1.0,5.0,50.0,5.0,40.0,12.5,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,ImagiMake,Education/Kids,Mumbai,Maharashtra,Middle,,,560.0,0.0,15.0,3000.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BeastLife,Medical/Health,"Kanpur,Lucknow",Uttar Pradesh,Middle,,,0.0,2.3,10.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,GoDevil,Beauty/Fashion,Gurugram,Haryana,Young,60.0,,27.5,5.1,8.0,400.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Havintha,Beauty/Fashion,Indore,Madhya Pradesh,Middle,,,50.0,6.2,5.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,NurturingGreen,Lifestyle/Home,Lucknow,Uttar Pradesh,Middle,,,280.0,40.0,10.0,1000.0,5.0,400.0,1.25,5.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,kyari,Lifestyle/Home,Indore,Madhya Pradesh,Middle,70.0,,104.8,26.3,8.0,1000.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,ProjectClay,Education/Kids,Goa,Goa,Young,,,0.0,0.0,1.5,15.0,1.5,15.0,10.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,DeniBikes,Vehicles/Electrical Vehicles,Pune,Maharashtra,Young,,,0.0,0.0,3.0,30.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,PrettyLittleShop,Lifestyle/Home,Mumbai,Maharashtra,Young,77.0,62.0,0.0,8.6,3.0,30.0,0.0,0.0,,0.0,,,0,0,,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Aquapeya,Lifestyle/Home,Sangli,Maharashtra,Middle,,,120.0,0.0,7.0,350.0,7.0,233.3333333,3.0,0.0,1.0,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,3.5,0.0,0.0,0.0,0.0,3.5,0.0,0.0
+4,Jarsh,Manufacturing,Hyderabad,Telangana,Middle,,,0.0,5.0,5.0,500.0,5.0,333.3333333,1.5,0.0,,1.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+4,DACBY,Beauty/Fashion,Kanpur,Uttar Pradesh,Middle,24.0,,0.0,3.0,7.5,340.9090909,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Shyle,Beauty/Fashion,Jaipur,Rajasthan,Middle,,,150.0,12.0,7.0,700.0,7.0,466.66666670000006,1.5,0.0,0.5,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,3.5,0.0,0.0,0.0,0.0,3.5,0.0,0.0
+4,SavaniHeritage,Business Services,Mumbai,Maharashtra,Middle,,9.0,1240.0,0.0,30.0,3000.0,10.0,1250.0,0.8,20.0,,1.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+4,SNEAKINN,Beauty/Fashion,Gurugram,Haryana,Middle,43.0,,59.0,0.0,9.0,300.0,9.0,138.46153850000002,6.5,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+4,fupro,Medical/Health,Chandigarh,"Punjab,Kerala",Young,45.0,,25.0,0.0,6.0,600.0,6.0,150.0,4.0,0.0,,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,2.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0
+4,Kanvas,Beauty/Fashion,Mumbai,Maharashtra,Young,,15.0,7.7,0.0,6.0,100.0,0.0,0.0,,0.0,,,0,0,,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,ezo,Manufacturing,Akola,Maharashtra,Middle,,,120.0,0.0,5.0,1515.151515,0.0,0.0,,0.0,,,0,0,,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Seven,Technology/Software,Mumbai,Maharashtra,Middle,,,6.1,0.0,7.5,750.0,7.5,500.0,1.5,0.0,,3.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,2.5,0.0,0.0,2.5,0.0,0.0,2.5
+4,TheFutureAnimations,Technology/Software,Delhi,Delhi,Young,,40.0,16.0,0.8,5.0,200.0,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+4,Aignosis,Technology/Software,Jaipur,Rajasthan,Young,,,0.0,0.0,5.0,125.0,10.0,125.0,8.0,0.0,,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,3.3333,3.3333,0.0,0.0,3.3333
+4,Rosha,Manufacturing,Delhi,Delhi,Middle,,15.0,80.0,0.0,6.0,600.0,6.0,150.0,4.0,0.0,1.5,2.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0
+4,MakeMyPayment,Technology/Software,Ujjain,Madhya Pradesh,Middle,,,0.0,0.0,3.0,100.0,0.0,0.0,,0.0,,,0,0,,4,3.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,PatchUp,Medical/Health,Delhi,Delhi,Middle,90.0,,0.0,0.0,5.0,285.7142857,5.0,220.2643172,2.27,0.0,,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+4,tikitoro,Beauty/Fashion,Chennai,Tamil Nadu,Middle,68.0,,85.0,0.0,2.5,500.0,2.5,250.0,1.0,0.0,0.5,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Ashva,Medical/Health,Ghaziabad,Uttar Pradesh,Young,49.0,,7.0,0.0,5.0,400.0,5.0,125.0,4.0,0.0,,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,AseemShakti,Beauty/Fashion,Mumbai,Maharashtra,Middle,,20.0,13.0,0.0,5.0,200.0,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+4,RBDMachineTools,Other,Jaipur,Rajasthan,Middle,,8.0,143.7,26.7,10.0,1000.0,5.0,500.0,1.0,5.0,,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+4,MidasPaint,Other,Pune,Maharashtra,Middle,,,0.0,0.0,30.0,600.0,0.0,0.0,,0.0,,,0,0,,4,4.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,GoodlandPickleball,Fitness/Sports/Outdoors,Mumbai,Maharashtra,Middle,,,27.0,0.0,8.0,200.0,8.0,133.3333333,6.0,0.0,0.5,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+4,TheNaturikCo,F&B,Panchkula,Haryana,Middle,69.0,,58.2,0.0,5.0,250.0,40.0,180.0180018,22.22,0.0,,5.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,8.0,8.0,8.0,8.0,0.0,0.0,8.0
+4,Metashot,Fitness/Sports/Outdoors,Bangalore,Karnataka,Middle,,,81.9,0.0,8.0,533.3333332999999,16.0,320.0,5.0,0.0,,2.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0
+4,GabruDiChaap,F&B,Hyderabad,Telangana,Middle,,,73.8,9.4,7.0,700.0,14.0,233.3333333,6.0,0.0,1.0,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,4.6666,4.6666,0.0,4.6666,0.0,0.0,0.0
+4,YaanMan,Beauty/Fashion,Ahmedabad,Gujarat,Young,,,3.5,0.0,5.0,83.33333333,10.0,50.0,20.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0
+4,SonicLamb,Lifestyle/Home,Mangalore,Karnataka,Middle,,,10.0,2.8,5.0,500.0,5.0,500.0,1.0,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+4,Woolah,F&B,Sivasagar,Assam,Middle,,,20.0,1.9,5.0,301.2048193,5.0,200.0,2.5,0.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+4,EM5,Beauty/Fashion,Indore,Madhya Pradesh,Middle,70.0,,83.5,17.0,7.0,350.0,10.0,100.0,10.0,0.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+4,WomanLikeU,Beauty/Fashion,Bangalore,Karnataka,Middle,,,47.0,7.2,10.0,500.0,10.0,333.3333333,3.0,0.0,2.0,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+4,BookLeafPublishing,Other,"Delhi,Srinagar","Delhi,Jammu & Kashmir",Young,,,32.0,0.0,9.0,180.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Str8bat,Fitness/Sports/Outdoors,Bangalore,Karnataka,Old,,,12.0,1.8,15.0,1500.0,15.0,428.57142860000005,3.5,0.0,,2.0,1,1,1.0,3,3.0,0.0,0,Male Team,7.5,0.0,0.0,7.5,0.0,0.0,0.0,0.0
+4,Ruby'sOrganics,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,45.0,0.0,10.0,400.0,10.0,125.0,8.0,0.0,,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+4,TheGoodDoll,Education/Kids,Ooty,Tamil Nadu,Middle,,,7.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Schickwheel,Manufacturing,Delhi,Delhi,Middle,,,0.0,0.0,7.0,700.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,ClapStoreToys,Education/Kids,Pune,Maharashtra,Young,,,25.4,6.2,8.0,200.0,10.0,100.0,10.0,0.0,,5.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0
+4,RahejaSolarFoodProcessing,Manufacturing,Indore,Madhya Pradesh,Middle,15.0,,70.0,0.0,5.0,500.0,17.5,399.543379,4.38,0.0,,3.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,2.5,0.0,0.0,2.5,0.0,0.0,12.5
+4,Wanderlooms,Fitness/Sports/Outdoors,Bhopal,Madhya Pradesh,Middle,,,26.1,3.2,5.0,200.0,5.0,125.0,4.0,0.0,,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,2.5,0.0,0.0,0.0,0.0,2.5,0.0,0.0
+4,Ugees,Lifestyle/Home,Noida,Uttar Pradesh,Middle,,,17.5,2.9,5.0,200.0,5.0,125.0,4.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+4,Alt.fCoworking,Business Services,Gurugram,Haryana,Middle,,,300.0,0.0,10.0,1333.333333,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BurgerBae,Beauty/Fashion,"Ludhiana,Kolkata","Punjab,West Bengal",Young,,5.0,118.0,9.2,10.0,400.0,20.0,100.0,20.0,0.0,,3.0,1,1,1.0,3,1.0,2.0,0,Mixed Team,0.0,0.0,6.6666,6.6666,0.0,0.0,0.0,6.6666
+4,BobaBhai,F&B,Bangalore,Karnataka,Middle,,,0.0,17.0,5.0,1666.666667,9.0,900.0,1.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,4.5,0.0,0.0,0.0,0.0,0.0,0.0,4.5
+4,Hexafun,Beauty/Fashion,"Mumbai,Delhi","Maharashtra,Delhi",Middle,,,32.0,5.7,10.0,250.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,RepeatGud,F&B,Raipur,Chhattisgarh,Young,,,0.0,0.1,5.0,100.0,5.0,50.0,10.0,0.0,,1.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+4,SkateSupplyIndia,Fitness/Sports/Outdoors,Chandigarh,Punjab,Middle,,9.0,8.5,0.0,5.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,UtopianDrinks,F&B,Thane,Maharashtra,Middle,,,291.5,0.7,4.0,222.22222219999998,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,GOFIG,Other,Pune,Maharashtra,Middle,35.0,,0.0,0.227,5.0,250.0,0.0,0.0,,0.0,,,0,1,0.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Joyspoon,F&B,Ahmedabad,Gujarat,Young,,,0.0,1.3,4.0,266.6666667,4.0,200.0,2.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
+4,bambinos,Education/Kids,Bangalore,Karnataka,Middle,,,11.0,0.0,10.0,1000.0,10.0,666.6666667000001,1.5,0.0,1.0,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,3.3333,0.0,3.3333,0.0,0.0,3.3333,0.0,0.0
+4,FundooLabs,Education/Kids,Vadodara,Gujarat,Middle,,,15.0,3.2,6.0,150.0,6.6,94.28571429,7.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,3.3,3.3,0.0,0.0,0.0,0.0
+4,Gaon,F&B,Champaran,Bihar,Middle,,7.0,55.0,4.9,8.0,200.0,8.0,100.0,8.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
+4,EriWeave,Beauty/Fashion,Kdonghulu,Meghalaya,Middle,,,1.8,0.22000000000000003,2.0,16.66666667,2.0,16.66666667,12.0,0.0,,2.0,1,1,1.0,2,0.0,2.0,0,Female Team,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+4,PaleooBakes,F&B,Mumbai,Maharashtra,Middle,,39.0,15.0,0.0,10.0,153.8461538,10.0,111.11111109999999,9.0,0.0,1.0,2.0,1,1,1.0,2,0.0,2.0,0,Female Team,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+4,NeuraSim,Medical/Health,Bangalore,Karnataka,Middle,,,0.0,0.0,10.0,125.0,0.0,0.0,,0.0,,,0,0,,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Offmint,Beauty/Fashion,Samastipur,Bihar,Middle,,,0.0,4.0,1e-05,0.001,1.0,25.0,4.0,0.0,,5.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0
+4,Chokhat,Lifestyle/Home,Delhi,Delhi,Middle,,8.0,5.5,0.0,5.0,71.42857143,3.0,30.0,10.0,2.0,,2.0,1,1,1.0,1,0.0,1.0,0,Female Team,0.0,0.0,1.5,0.0,1.5,0.0,0.0,0.0
+4,ZenmaCoffee,F&B,Gurugram,Haryana,Young,,,0.0,0.8,6.0,171.4285714,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,TheEleFant,Education/Kids,Mumbai,Maharashtra,Middle,58.0,,0.0,0.0,6.0,600.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BetterNutrition,F&B,Lucknow,Uttar Pradesh,Middle,40.0,20.0,100.0,0.0,6.0,600.0,6.0,600.0,1.0,0.0,0.5,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,PinqPolka,Beauty/Fashion,Faridabad,Haryana,Middle,74.0,,36.3,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,3,1.0,2.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Vibrasense,Medical/Health,Sonipat,Haryana,Middle,,,0.0,0.0,10.0,500.0,10.0,210.08403360000003,4.76,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+4,NearBook,Education/Kids,Sanchore,Rajasthan,Young,,,0.0,0.0,4.0,20.0,4.0,20.0,20.0,0.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+4,Memotag,Medical/Health,Delhi,Delhi,Young,,,0.0,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Klimate,Beauty/Fashion,"Bangalore,Gular","Karnataka,Assam,Jharkhand",Young,,,0.0,0.0,5.4,180.0,0.0,0.0,,0.0,,,0,0,,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,HealthFab,Medical/Health,,Assam,Middle,,,83.4,0.0,10.0,333.3333333,20.0,285.7142857,7.0,0.0,,4.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,5.0,5.0,5.0,5.0,0.0,0.0,0.0
+4,PieMatrix,Other,Delhi,Delhi,Young,,,16.5,0.0,10.0,333.3333333,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Sudathi,Beauty/Fashion,Surat,Gujarat,Middle,,,0.0,0.266,10.0,1000.0,10.0,250.0,4.0,0.0,,3.0,1,1,1.0,3,3.0,0.0,0,Male Team,0.0,0.0,3.3333,3.3333,3.3333,0.0,0.0,0.0
+4,Moderate,Medical/Health,Hyderabad,Telangana,Middle,,,0.0,0.0,5.0,400.0,10.0,200.0,5.0,0.0,,2.0,1,1,1.0,3,2.0,1.0,0,Mixed Team,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0
+4,HireForCare,Medical/Health,"Ghaziabad,Jaipur","Uttar Pradesh,Rajasthan",Middle,,,0.0,0.0,3.6,120.0,3.6,72.0,5.0,0.0,,5.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.72,0.72,0.72,0.72,0.0,0.0,0.72
+4,DreamSmile,Medical/Health,Mumbai,Maharashtra,Middle,67.0,,0.0,0.0,8.0,133.3333333,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Madmix,F&B,Mumbai,Maharashtra,Middle,,,0.0,0.0,5.0,500.0,5.0,100.0,5.0,0.0,,1.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,Palmonas,Beauty/Fashion,Pune,Maharashtra,Middle,76.0,,135.0,0.0,12.6,1260.0,12.6,1260.0,1.0,0.0,0.5,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,6.3,0.0,0.0,0.0,0.0,6.3,0.0,0.0
+4,MKPowerAndMobility,Vehicles/Electrical Vehicles,Pune,Maharashtra,Old,,,0.0,0.0,35.0,700.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Nidhi'sGrandmaaSecret,Beauty/Fashion,Gurugram,Haryana,Middle,,,40.0,0.0,7.0,350.0,7.0,140.0,5.0,0.0,1.0,1.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0
+4,Solnce,Manufacturing,Surat,Gujarat,Middle,13.0,,219.3,0.0,10.0,666.6666667000001,10.0,400.0,2.5,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+4,BornGood,Lifestyle/Home,Bangalore,Karnataka,Middle,,,52.6,7.0,7.0,700.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,DorabiAndAmili,Beauty/Fashion,Gurugram,Haryana,Middle,,,34.5,0.0,7.5,250.0,10.0,250.0,4.0,0.0,,2.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0
+4,ZebraLearn,Education/Kids,Surat,Gujarat,Middle,,,107.0,16.4,10.0,1250.0,10.0,625.0,1.6,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0
+4,ExclusiveLane,Lifestyle/Home,Gurugram,Haryana,Middle,,,140.0,0.0,5.0,500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Medial,Technology/Software,Bangalore,Karnataka,Young,,,0.0,0.0,5.0,500.0,5.0,200.0,2.5,0.0,,1.0,1,1,1.0,4,4.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,PanchalDairy,F&B,Surendranagar,Gujarat,Middle,,,17.8,0.0,2.0,20.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,MusicPandit,Education/Kids,Kochi,Kerala,Middle,,,0.0,1.9,5.0,500.0,0.0,0.0,,0.0,,,0,0,,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Cograd,Education/Kids,Etawah,Uttar Pradesh,Middle,,,19.2,0.0,10.0,500.0,5.0,83.33333333,6.0,5.0,,3.0,1,1,1.0,2,2.0,0.0,0,Male Team,1.6666,1.6666,0.0,0.0,0.0,1.6666,0.0,0.0
+4,EatBetterCo,F&B,Jaipur,Rajasthan,Middle,,,144.7,0.0,5.0,1000.0,5.0,1000.0,0.5,0.0,1.0,1.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Earthful,Medical/Health,Hyderabad,Telangana,Middle,,,70.5,0.0,7.5,750.0,7.5,300.0,2.5,0.0,,1.0,1,1,1.0,2,0.0,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0
+4,Trajectory,Vehicles/Electrical Vehicles,Delhi,Delhi,Middle,,,62.0,10.0,10.0,500.0,5.0,166.6666667,3.0,5.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,KaviThePoetry-ArtProject,Other,,,Middle,,20.0,35.6,3.6,6.0,400.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,F2DF,Other,Jind,Haryana,Middle,,,92.4,0.0,5.0,500.0,0.5,25.0,2.0,4.5,,1.0,1,1,1.0,4,3.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+4,SugarStrings.ai,Medical/Health,"Kalady, Vuyyuru","Kerala,Andhra Pradesh",Middle,,,0.0,0.0,10.0,400.0,0.0,0.0,,0.0,,,0,0,,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,MomsHome,Education/Kids,Jaipur,Rajasthan,Middle,,,125.0,18.0,7.5,750.0,7.5,375.0,2.0,0.0,1.0,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0
+4,Catwalk,F&B,Delhi,Delhi,Middle,65.0,,0.0,0.6,10.0,240.38461539999997,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Beautywise,Beauty/Fashion,Delhi,Delhi,Middle,,,67.0,0.0,10.0,666.6666667000001,30.0,500.0,6.0,0.0,,1.0,1,1,1.0,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0
+4,Ivory,Medical/Health,Bangalore,Karnataka,Middle,,,0.0,0.0,5.0,400.0,5.0,100.0,5.0,0.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,TheHousePartyBySavar,Business Services,Gurugram,Haryana,Middle,,,36.8,0.0,10.0,200.0,5.0,100.0,5.0,5.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,GlowGlossary,F&B,"Bangalore,Ghaziabad","Karnataka,Uttar Pradesh",Middle,58.0,31.0,0.0,0.0,6.0,150.0,0.0,0.0,,0.0,,,0,0,,2,0.0,2.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,SinghDentalCare,Medical/Health,Amritsar,Punjab,Middle,,,9.0,0.0,10.0,200.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,TribalVeda,F&B,Udaipur,Rajasthan,Middle,47.0,,17.4,0.0,5.0,250.0,5.0,178.5714286,2.8,0.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+4,Anuvad,Beauty/Fashion,Ahmedabad,Gujarat,Middle,,,2.2,0.0,5.0,100.0,0.0,0.0,,0.0,,,0,0,,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Fitelo,Fitness/Sports/Outdoors,Mohali,Punjab,Middle,70.0,,910.0,75.0,15.0,3000.0,15.0,1500.0,1.0,0.0,1.0,2.0,1,1,1.0,2,2.0,0.0,0,Male Team,7.5,7.5,0.0,0.0,0.0,0.0,0.0,0.0
+4,Nanighar,F&B,Kolkata,West Bengal,Middle,,,0.0,6.4,10.0,200.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,GoodMonk,Fitness/Sports/Outdoors,Bangalore,Karnataka,Middle,75.0,,20.0,3.5,10.0,598.8023952,5.0,500.0,1.0,5.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Artbuzz,Business Services,Delhi,Delhi,Middle,,,37.8,0.0,10.0,333.3333333,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Tulua,F&B,Mumbai,Maharashtra,Middle,,,29.0,4.5,5.0,250.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Taffykids,Education/Kids,Mumbai,Maharashtra,Middle,75.0,,120.0,15.0,7.5,750.0,7.5,500.0,1.5,0.0,0.5,2.0,1,1,1.0,3,1.0,2.0,1,Mixed Team,0.0,3.75,0.0,0.0,0.0,3.75,0.0,0.0
+4,WhaleWearables,Lifestyle/Home,Belagavi,Karnataka,Young,,,0.0,0.0,3.0,100.0,3.0,100.0,3.0,0.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,1.5,0.0,1.5,0.0,0.0,0.0,0.0
+4,Zingavita,Medical/Health,Chandigarh,Punjab,Middle,68.0,,86.0,19.0,10.0,800.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,DhaagaLife,Beauty/Fashion,Mumbai,Maharashtra,Middle,,,12.0,0.0,7.5,150.0,0.0,0.0,,0.0,,,0,0,,3,0.0,3.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Tileskraft,Lifestyle/Home,Borbi,Gujarat,Young,,,5.8,0.0,6.0,50.0,0.0,0.0,,0.0,,,0,0,,1,0.0,1.0,0,Female Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Krishnsakhi,Lifestyle/Home,Mumbai,Maharashtra,Old,,,8.0,1.0,3.75,150.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BoreCharger,Other,Pune,Maharashtra,Middle,,,32.2,0.0,7.5,500.0,0.0,0.0,,0.0,,,0,1,0.0,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,SuperBolter,Lifestyle/Home,Bangalore,Karnataka,Middle,,,0.0,0.0,7.5,1500.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,HiveSchool,Education/Kids,"Delhi,Indore","Delhi,Madhya Pradesh",Young,,,0.0,0.0,6.0,120.0,0.0,0.0,,0.0,,,0,0,,3,3.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Tintbox,Lifestyle/Home,Ahmedabad,Gujarat,Middle,,,20.6,0.0,7.0,140.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,0,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,EasyRugs,Lifestyle/Home,Delhi,Delhi,Middle,,,0.0,0.8,3.5,70.0,3.5,70.0,5.0,0.0,5.0,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,1.75,0.0,1.75,0.0,0.0,0.0,0.0
+4,StylesTry,Beauty/Fashion,Delhi,Delhi,Young,43.0,,9.3,7.0,5.0,500.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Quitci,Lifestyle/Home,Kolar,Karnataka,Middle,,,11.0,3.3,5.0,250.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,FitFeast,F&B,Delhi,Delhi,Young,53.0,,14.0,0.0,10.0,153.8461538,10.0,55.55555556,18.0,0.0,,2.0,1,1,1.0,1,1.0,0.0,0,Male Team,0.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0
+4,TheBearHouse,Beauty/Fashion,Bangalore,Karnataka,Middle,,,965.0,0.0,30.0,3000.0,10.0,1000.0,1.0,20.0,,1.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,UrbanAnimal,Other,Bangalore,Karnataka,Young,,,0.0,0.0,4.5,90.0,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Nooky,Lifestyle/Home,Delhi,Delhi,Middle,,,0.0,10.2,6.0,600.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Subculture,Beauty/Fashion,Ara,Bihar,Young,,,2.0,0.0,5.0,71.42857143,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Woodsmen,Other,Delhi,Delhi,Middle,46.0,,0.0,0.0,15.0,3000.0,0.0,0.0,,0.0,,,0,0,,1,1.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,BhavisyaPlast,Other,Kolkata,West Bengal,Young,,,0.0,0.0,5.0,333.3333333,20.0,200.0,10.0,0.0,,4.0,1,1,1.0,1,0.0,1.0,0,Female Team,5.0,0.0,5.0,5.0,0.0,0.0,0.0,5.0
+4,Ecoil,Other,Jaipur,Rajasthan,Middle,40.0,15.0,170.0,0.0,10.0,800.0,5.0,500.0,1.0,5.0,,2.0,1,1,1.0,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,2.5,0.0,2.5
+4,Rescript,Other,Bangalore,Karnataka,Middle,,,27.0,0.0,10.0,300.3003003,0.0,0.0,,0.0,,,0,0,,2,2.0,0.0,0,Male Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,TickleYourArt,Other,Pune,Maharashtra,Young,,,2.0,0.0,2.13,30.428571429999998,2.13,30.428571429999998,7.0,0.0,,2.0,1,1,1.0,3,0.0,3.0,0,Female Team,0.0,0.0,1.065,1.065,0.0,0.0,0.0,0.0
+4,Symbionic,Medical/Health,Chennai,Tamil Nadu,Middle,,,0.0,0.0,8.0,400.0,4.0,400.0,1.0,4.0,,1.0,1,1,1.0,2,2.0,0.0,0,Male Team,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,XLCinema,Other,Delhi,Delhi,Middle,,,6.5,0.0,15.0,1000.0,0.0,0.0,,0.0,,,0,0,,2,1.0,1.0,1,Mixed Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
